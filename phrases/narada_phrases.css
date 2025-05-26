@@ -1,0 +1,177 @@
+@charset "utf-8";
+
+* {
+	margin:0;		/*全要素のマージン*/
+	padding:0; 	/*全要素のパディング*/
+	}
+
+body {
+	font-family: "メイリオ",sans-serif;
+	font-size: 0.875em; /* 14px */
+	line-height: 1.6;
+	color: #333333;
+	background-color:#cccccc;
+	}
+
+div#pagebody {
+	width:920px;
+	 margin:0 auto;
+	background-color:#ffffff;
+	}
+
+img {
+	border:0;
+	}
+
+/*   ヘッダ   */
+
+div#header {
+	margin:0px 0px 10px 10px;
+	height:40px;
+	color: #333333;
+	}
+
+div#header h1 {
+	padding:10px 0px 5px 6px;		/*見出しの位置調整*/
+	font-size:20px;				/*フォントのサイズ*/
+	color: #330000;
+	}
+
+/* トップに戻る */
+
+div#index {
+	text-align:center;	
+}
+
+p#index a {
+	padding:10px 0px 10px 60px;		/*見出しの位置調整*/
+	font-size:12px;				/*フォントのサイズ*/
+	color: #996600;
+}
+
+/* メインとなる内容 */
+
+div#contents {
+	width: 900px;		/*幅の指定*/
+	margin: 0px 0px 20px 0px;
+	}
+
+div#contents h2 {
+	border-bottom: solid 1px #999966;
+	margin: 20px 6px 20px 22px;
+	padding: 0px 4px 1px 2px;
+	font-size: 16px;
+	color: #330000;
+	letter-spacing: 2px;
+	}
+
+div#contents h3 {
+	border-bottom: solid 1px #666666;
+	margin: 24px 16px 10px 24px;
+	padding: 0px 4px 1px 14px;
+	font-size: 16px;
+	color: #333333;
+	letter-spacing: 1px;
+	}
+
+div#contents h4 {
+	margin: 12px 10px 2px 24px;
+	padding: 0px 4px 0px 12px;
+	font-size: 14px;
+	color: #330000;
+	}
+
+div#contents p {
+	font-size: 14px;
+	margin: 20px 10px 2px 28px;
+	}
+
+div#contents p.rpnote {
+	font-size: 14x;
+	margin: 0px 10px 2px 30px;
+	}
+	
+div#contents p.right {
+	font-size: 14px;
+	text-align: right;
+	}
+
+div#contents small {
+	font-size: 12px;
+	margin: 10px 10px 2px 2px;
+	}
+
+div#contents em.play {
+	font-style: normal; 
+	color: #996600
+	}
+
+div#contents ul {
+	margin: 12px 20px 10px 60px;
+	}
+
+div#contents ol {
+	margin: 20px 20px 20px 48px;
+	font-size: 14px;
+	}
+
+div#contents li.index {
+	margin: 10px 0px 4px 0px;
+	list-style-type: none;
+	}
+
+	div#contents ul.sub {
+	margin: 4px 20px 14px 20px;
+	}
+
+div#contents table {
+	margin: 10px 0px 10px 20px;
+	font-size: 14px;
+	border-collapse: separate;
+	border-spacing: 10px 20px;
+	}
+
+div#contents tr {
+	line-height: 1.2;
+	}
+
+div#contents td {
+	vertical-align:top;
+	padding: 0px 10px 0px 0px;
+}
+
+div#contents a	{
+	color: #996600;
+	text-decoration: none;
+	}
+
+div#contents a:hover	{
+	color: #999999;
+	text-decoration: underline;
+}
+
+div#contents hr {
+	margin: 40px 10px 10px 30px;
+}
+
+/*   フッタ   */
+
+div#footer {
+	margin: 20px 0px 0px 20px;
+	text-align:center;	
+	height: 100px;
+	}
+
+div#footer small {
+	font-size: 12px;
+	}
+
+div#footer a	{
+	color: #333333;
+	text-decoration: none;
+	}
+
+div#footer a:hover	{
+	color: #999999;
+}
+
