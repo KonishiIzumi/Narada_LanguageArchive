@@ -6,3 +6,6 @@ This folder “mukashibanashi” contains recordings of old tales told by Fumie 
 
 The Japanese titles of each episode are taken from the book below: 
 深沢正志『秘境奈良田』山梨ふるさと文庫、1989年 (Fukasawa, Masashi. “The hidden village Narada,” Yamanashi Furusato Bunko, 1989.
+
+Some transcriptions and standard Japanese translations are based on the instructions of Fukasawa Minoru(深沢實).
+
