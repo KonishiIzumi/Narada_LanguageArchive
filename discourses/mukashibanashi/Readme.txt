@@ -1,4 +1,4 @@
-This folder “mukashibanashi” contains recordings of old tales told by Fumie Fukasawa (深沢文江), who was born in 1924 (大正13).
+This folder “mukashibanashi” contains recordings of old tales told by Fukasawa Fumie (深沢文江), who was born in 1924 (大正13).
 
 1. 20050916_fumie_kotoji.wav: "Kotoji no koto" 「琴路のこと」, Recorded September 16, 2005.
 2. 20050916_fumie_yokubari.wav: "Yokubari na oshoonin" 「よくばりなお上人」, Recorded September 16, 2005.
