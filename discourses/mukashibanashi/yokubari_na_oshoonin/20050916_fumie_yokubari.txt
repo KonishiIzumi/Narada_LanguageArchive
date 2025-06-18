@@ -1,0 +1,58 @@
+開始時間 - 秒.ミリ秒	終了時間 - 秒.ミリ秒	発話　カナ表記	発話　音調付き音素表記	共通語訳	注
+0.15	2.1	ムカシムカシナーヨ	[mu]kasimukasina[a]jo	昔昔ね	
+3.86	8.79	コノ　ナーダノ　ヤマオクニ　オテラカ゜　イッケン　アットーダケ゜ノーニ。	[ko]no naa[dano [ja]mao[ku]ni [o]teraŋa iQ[ke]ɴ aQ[to]odaŋeno[o]ni.	この　奈良田の　山奥に　お寺が　一軒　あったのだそうだよ。	
+9.73	19.18	ソノ　オテラニ　ソリャー　ヨクノ　フカイ　オショーニント　コゾート　フタリデ　クライテ　イトードーッチェ。	[so]no otera[ni [so]rja[a] jokuno huka[i] osjooniɴto [ko]zo[o]to hutari[de] kuraite ito]odooQ[cje.	その　お寺に　それは　欲の　深い　お上人と　小僧と　二人で　暮らして　いたのだって。	
+20.715	21.565	ソーシテ	[soosite	そして	
+22.82	29.44	ソノ　オショーニンワ　ヨクッカキデ　コゾーニャー　ナンデンマ　クレデーテ	[so]no osjooniɴwa [jo]kuQkaki[de] kozo[o]njaa [na]ɴde[ɴ]ma kuredee[te	その　お上人は　欲張りで　小僧には　何も　やらずに	クレデーテ：奈良田方言では「やる」にあたる遠心方向の授与に kureru を使えることから「やらずに」と訳した。ただしこの文は視点が小僧にあるとも解釈でき「くれずに」と訳すこともできる。
+30.68	34.59	アノ　ホージトカイ　イケバ　ホレ　モチョー　ウケテ　キタリ	ano [ho]ozitoka[i [i]ke[ba] hore [mo]cjoo u[ke]te kitari	あの　法事とかへ　行けば　ほら　餅を　もらって　来たり	
+34.945	37.913	アノー　ダンコ゜ー　ウケテ　キタリ　シトーッテモ	[a]noo [da]ɴŋoo u[ke]te kitari sito[oQtemo]	あの　団子を　もらって　来たり　しても	
+38.046	41.705	ミテル　トコデ　クードーッチェドーヨ　オコゾーニャー　クレデーテ。	mi[te]ru tokode kuu[doo]Qcjedoo[jo [o]kozoonjaa [ku]redeete.	見ている　所で　食べるのだそうだよ　お小僧には　やらないで。	
+42.386	48.99	ナントカ　シテ　オレモ　アノ　ダンコ゜ー　ヤレ　シトツ　クイタイト　オモードーカ゜	na[ɴ]toka site [o]remo [a]no [da]ɴŋoo ja[re] sito[tu] kuita[i]to omo[o]dooŋa	何とかして　私も　団子を　やれ　一つ　食いたいと　思うのだが	ヤレ：感動詞
+49.41	51.34	ゼッタイ　クレノードッチェ。	[ze]Qtai kureno[o]doQcje.	絶対　くれないんだって。	ゼッタイ: [dːʣettai] 強調のために閉鎖音が持続している。
+51.42	54.44	ソーシテ　アマザケオモ　コーユーサ	[soo]site [a]mazake[o]mo koojuu[sa]]	そして　甘酒をも　こういうさ	コーユーサ：サは間投助詞と解釈したが、従来の奈良田方言にサはなかったと思われる。山梨西部方言からの借用か。間投助詞ではない可能性もある。
+55.04	61.82	ウント　アマイ　ウマク　オ　オショーニンカ゜　シトリデ　アマザケオ　コシャイテッチャー	[uɴto a]mai [umaku] o osjooniɴŋa si[toride] amazakeo [ko]sjaiteQcja[a]	うんと　甘い　上手く　（オ）　お上人が　一人で　甘酒を　作って	
+62.06	67.86	コーユー　ドンブリー　ニカイ　オクラノ　ニカイサ　オクドーッチェ　ソノ　ツブオ　ツボー。	[koo]juu do[ɴbu]rii [ni]kai [oku]rano [ni]kaisa okudo[oQcje] sono [tu]buo [tu]boo.	こういう　どんぶりに　（ニカイ）　お蔵の　二階に　置くんだって　その　（ツブオ）　壺を。	
+68.84	71.19	ソーシテーテ　コゾーワ　ミテーレバ	[so]ositeete [ko]zo[o]wa mi[teereba]	そして　小僧は　見ていると	
+71.495	73.735	ハシコ゜ー　カケチャー　ソコエ　ホレ	[ha]siŋoo kakecja[a] sokoe ho[re]	梯子を　かけて　そこへ　ほら	
+73.795	76.705	アノ　オクラノ　ニカイサ　コー　ハシコ゜ー　カケチャー	ano [o]kurano nikaisa koo [ha]siŋoo kake[cja]a	あの　お蔵の　二階に　こう　梯子を　かけて	
+77.69	85.507	ソーシチャー　アノ　アマザケオ　ドンブリー　クンジャー　テマイワ　シトイデ　ハシコ゜ー　コー　オリルラ。	[soo]sicja[a] ano [a]mazake[o] doɴ[bu]rii kuɴzja[a] tema[iwa] sito[ide [ha]siŋoo koo ori[ru][[ra.	そうして　あの　甘酒を　どんぶりに　汲んで　自分は　一人で　梯子を　こう　降りるだろう？	
+85.585	91.385	#{ソー　スレバ}　ハイ　カエ　アノ　ハシコ゜ー　ブ　ハヅイテ　カタヅケルドーッチェ。	#{soo sureba} [hai [kae] ano [ha]siŋoo bu [ha]duite kataduke[ru]dooQcje.	#{そう　すると}　もう （カエ）　あの　梯子を　（ブ）　外して　片づけるのだって。	
+91.487	93.72	ソエデ　ホレ　ノムチューニワ　イカノーヨ　コゾー。	[soe]de [ho]re [no]mucjuuniwa ikanoojo [ko]zoo.	それで　ほら　飲むというには　いかない　小僧［は］。	
+94.633	100.485	メレ　オレモ　ヤレ　イッパイ　ヨバレテ　ミタイト　オモッテ　イタイバ　コンダー	mere [o]remo ja[re] iQpa[i] jobarete mita[i]to omoQte ita[i]ba ko[ɴ]daa	／／　私も　やれ　一杯　ご馳走になって　みたいと　思っていたら　今度は	
+101.235	102.345	アル　ヒノ　コト	a[ru hi]no koto	ある　日の　こと	
+104.85	106.8	コンダーナー　アマダ　オ	ko[ɴ]daana[a] amada o	今度はね　（アマザ）　（オ）	
+106.92	109.52	アノ　ソノ　オショーニンカ゜　ユーニドーヨ　コゾー#{ニ}。	ano sono [o]sjooniɴŋa juunidoo[jo] kozoo#{ni}.	あの　その　お上人が　言うのにだよ　小僧#{に}。	
+110.16	115.46	コンダー　アノ　アマザケモ　ボツボツ　ナクナルドーデ　ウント　インメーニ　ナットーデ	ko[ɴ]daa ano [a]mazake[mo] bo[tu]botu na[ku]narudoo[de] u[ɴ]to iɴmee[ni] naQ[to]ode	今度は　あの　甘酒も　そろそろ　なくなるので　うんと　少しに　なったから	
+116.05	117.94	キョーワ　シタイ　オロスデ	kjo[o]wa si[ta]i oro[su]de	今日は　下に　降ろすから	
+118.73	120.98	アノ　テツダイ　ヨバレチューダ。	ano [te]tudai jobarecjuuda.	あの　手伝い［に］　呼ばれたというのだ。	ヨバレチューダ：文脈から「呼ばれたというのだ」だと思われるがヨバレ joba-re にチュー cjuuが続く構造は不審で言い間違いの可能性がある。
+121.35	124.58	ヤレ　シメタモンダト　オモットードー　オコゾー。	ja[re] si[me]tamoɴ[da]to omoQ[to]odoo [o]kozoo.	やれ　しめたものだと　思ったのだ　お小僧［は］。	
+125.545	129.395	ソーシテ　ホレ　ハシコ゜ー　カケテ　オショーニンカ゜　コー　ノボッテッテ	[soo]site hore [ha]siŋoo ka[ke]te osjooniɴŋa koo [no]boQteQ[te	そして　ほら　梯子を　かけて　お上人が　こう　登って行って	
+129.97	137.17	オレカ゜　アノー　ツボー　オロスデナ　ソイデ　ソコデーテ　シリオ　モテヨッチェ　コーユー　ツ　コーユー　ツボー	[o]reŋa anoo [tu]boo oro[su]de[na] soide [so]kodee[te] siri[o] mote[jo]Qcje koojuu [tu] koojuu [tu]boo	私が　あの　壺を　降ろすからな　それで　そこで　尻を　持てよ」って　こういう　（ツ）　こういう　壺を	ソコデーテ：soko=de i-te「そこで　居て」に由来すると思われるが、全体として「そこで」相当と解釈した。少し後の「来て」相当の キテーテ など継続中止形 -te ite「～ていて」 由来形式が非継続中止形「～て」相当になる例は多く、これに関係すると思われる。
+137.46	142.347	ココエ　ハシコ゜ー　カケテネ　コレオ　コッカラ　コー　モッテッテ　コー　ココイ	kokoe [ha]siŋoo ka[ke]te[ne]] [ko]reo [ko]Qkara ko[o] moQ[te]Qte ko[o] kokoi	ここに　梯子を　かけてね　これを　ここから　こう　持って行って　こう　ここに	この部分は特にコ系の指示語が連続するが動画の記録はなく、指す内容は不明。
+142.98	145.44	インメー　オショーニンカ゜　オリテ　キテーテ	[i]ɴme[e] osjooniɴŋa o[ri]te kitee[te	少し　お上人が　降りて　来て	
+145.92	147.43	ホレ　コノ　シリョー	[hore] kono [si]rjo[o]	「ほら　この　尻を	
+147.82	149.02	{笑}	{笑}	{笑}	
+149.32	152.57	ツボノ　シリョー　シタデ　シッカリ　モテヨチョ	[tu]bono sirjo[o] si[tade [si]Qka[ri] mote[jo]cjo	壺の　尻を　下で　しっかり　持てよ」と	モテヨチョ：チョを引用助詞相当とみなして「と」を訳したが一般的な形ではない。
+152.705	154.693	ハイ　ハイッチェ　へンジオ　シテ	ha[i] ha[i]Qcje he[ɴ]zio site	「はい　はい」と　返事を　して	
+154.92	161.54	タ　ホンコニ　ソノ　ウエカラ　ツボー　コー　オショーニンカ゜　オロイテ　キテ	ta [ho]ɴkoni sono [u]eka[ra] tuboo ko[o] osjooniɴŋa [o]roite ki[te	／ 本当に　その　上から　壺を　こう　お上人が　降ろして　来て	タ：ソーシタイバ「そうしたら」「すると」などの接続詞が早口ではっきり発話されなかったと思われる。
+161.955	164.645	ホレ　モッタカ　シリョー。　モッタヨー。	[ho]re moQ[ta]ka si[rjo]o. moQ[tajoo.	「ほら　持ったか　尻を。」　「持ったよ。」	
+165.31	169.32	タシカ　モッタナッチェ　ウエデ　ター　{笑}	tasi[ka] moQ[ta][[na]Qcje uede taa {笑}	「確か［に］　持ったな。」と　上で　／／　{笑}	タシカ：深沢實氏の教示によれば「タシカ」の形で副詞として使うのが一般的なわけではない。
+169.645	171.655	モツニ　キマッテルダ。	mo[tu]ni kimaQte[ru]da.	「持つに　決まっているよ。	キマッテルダ：ここでは「決まっているんだ」と訳すと不自然。現在の話者はこのような「もちろん～」という場合に使われる「用言＋ダイ」があり、それと同様の用法の「用言＋ダ」とみなした。
+171.815	174.387	モッタ　モッタチテ　ホードーデ　オショーニンワ	moQ[ta] moQ[ta]cite hoo[do]ode [o]sjooniɴwa	持った　持った」と言って　それだから　お上人は	
+174.575	177.875	ウエカラ　コレオ　ハナイトーッチェドー。　シタワ　コレオ　#{モットーデ}。	[uekara] koreo hana[i]tooQcjedoo. si[ta]wa koreo #{[mo]Qtoode}.	上から　これを　離したそうだ。下は　これを　#{持ったから}。	シタワ～モットーデ：お上人はそう思っていたということだと思われる。
+178.615	185.153	ハナイタイバ　ブーント　シタエ　オチテ　パーット　ツバー　ワレテ	[ha]na[i]taiba buu[ɴ]to si[ta]e oci[te [paa]Qto [tu]baa warete	離したら　ブーンと　下へ　落ちて　パーット　壺は　割れて	
+185.885	190.845	ナンノ　タメニ　モットーッチェ　イットージャー　ナイカ。　ソイデ　オリャー	na[ɴ]no tameni moQ[to]oQcje iQto[o]zjaa na[i]ka. [so]ide orjaa	何の　ために　持ったと　言ったじゃ　ないか。それで　私は	
+191.805	195.967	ソコー　テオ　ハナイトーダヨ　ダゾッチェ　オショーニンカ゜　オコッタイバ	[so]koo te[o] hana[i]toodajo [da]zoQcje [o]sjooniɴŋa okoQ[tai]ba	そこを　手を　離したんだよ　だぞって　お上人が　怒ったら	ダゾッチェ：一度「ダヨ」と言ったのを「ダゾ」と言い直している。
+196.79	202.18	ウラマーリャー　サッ　ハジメッカラ　シリオバ　モッテールヨッテ	[u]ra[ma]arjaa [saQ [ha]zi[me]Qkara [si]ri[o]ba moQ[te]erujoQte	私なんて　（サッ）　初めから　尻を　持っているよ」と	
+202.395	205.973	テマイノ　シリョー　コー　シテ　モッテ	[te]maino sirjo[o] koo site moQ[te	自分の　尻を　こう　して　持って	
+206.193	210.273	アカク　ナッテ　シマットー。　モットーッチェ　#{ソイデ}　{笑}	[a]kaku naQ[te] simaQto[o]. moQ[to]oQcje #{soide} {笑}	赤く　なって　しまった。持ったって　#{それで} {笑}	
+210.547	212.293	シリョー　{笑}	[si]rjoo {笑}	尻を　{笑}	
+213.375	217.855	オメーノ　シリノ　コンジャー　ナイドーワ。　ツボノ　シリダットードー。	omeeno [si]rino koɴ[zja]a na[i]doowa. [tu]bono siri[da]Qtoodoo.	「お前の　尻の　ことじゃ　ないんだよ。　壺の　尻だったんだ。」	オメー：奈良田の言葉として一般的な2人称ではない。
+218.835	224.473	ソーシテ　アマザケワ　ソックリ　パーット　オシマイニ　ナッ#{テ}　#{シタイバ}　オショーニンカ゜　コンダ	[soo]site [a]mazake[wa] soQku[ri] paaQto [o]simaini naQ#{te} #{sitaiba} [o]sjooniɴŋa koɴ[da	そして　甘酒は　そっくり　パーッと　おしまいに　なっ#{て} #{すると}　お上人が　今度は 	
+225.04	231.63	マー。　オレカ゜　イママデ　クレノードーデ　ワリャー　ソーユー　コトー　カンカ゜エトーダットーダナ。	ma[a. [o]reŋa [i]mama[de] kurenoodoo[de] warja[a] soojuu koto[o] kaɴŋa[e]toodaQ[to]oda[na.	「まあ。私が　今まで　やらないので　お前は　そういう　ことを　考えたのだったのだな。　	
+231.985	236.9	ワルカッタ。　ワルカッタ。　イマッカラー　ワレニモ	[waru]kaQ[ta. [waru]kaQ[ta. i[ma]Qkara[a] wareni[mo	悪かった。悪かった。今から　お前にも	
+237.24	243.727	チャント　ワケルデナッチェ　コンダ　ソレッカラー　ソリョー　ゾデ　アレドーッチェドーヨ	[cjaɴ]to wake[ru]de[na]Qcje koɴ[da [so]reQkaraa [so]rjoo zo[de] are[do]oQcjedoo[jo	ちゃんと　分けるからな」と　今度は　それからは　それを　きっかけにして　あれだよ	ソリョー　ゾデ：「それをきっかけに」の意。「ソリョー　ゾニ」とも言う。（深沢實氏の教示による）
+243.867	247.753	ホージニ　イッテ　キテモ　タトエ　ヒトキレデモ	[ho]ozini iQte kite[mo [ta]toe hito[ki]rede[mo	法事に　行って　来ても　たとえ　一切れでも　	
+248.187	251.66	モチョーモ　クレタリ　オダンコ゜ーモ　クレタリ	[mo]cjoo[mo] kureta[ri] odaɴŋoo[mo] kureta[ri]	餅をも　やったり　お団子をも　やったり	
+251.973	255.64	ソレッカラー　オコゾーモ　ウケテ　クットーチュー　ハナシ。	[so]reQkara[a] okozoomo u[ke]te kuQ[to]ocjuu hana[si.	それからは　お小僧も　もらって　食べたという　話。	
+255.78	256.887	ソレデ　ヒッチマイ。	[so]rede hiQcimai.	それで　おしまい。	
