@@ -11,5 +11,6 @@ For details, refer to the file “『秘境奈良田』昔話の語り_x.pdf” 
 Contents: 
 
 1. "dukunasi" 「づくなし」, Recorded July 7, 2025.
+2. "umasuteyma" 「姥捨て山」, Recorded July 26, 2025.
 
 
