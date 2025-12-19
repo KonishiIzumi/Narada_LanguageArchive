@@ -12,5 +12,6 @@ Contents:
 
 1. "dukunasi" 「づくなし」, Recorded July 7, 2025.
 2. "umasuteyma" 「姥捨て山」, Recorded July 26, 2025.
+3. "tucini mogutta mogura" 「土にもぐったもぐら」, Recorded July 26, 2025.
 
 
