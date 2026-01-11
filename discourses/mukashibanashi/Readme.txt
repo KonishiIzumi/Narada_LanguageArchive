@@ -7,5 +7,6 @@ This folder “mukashibanashi” contains recordings of old tales told by Fumie 
 The Japanese titles of the episodes 1 and 3 are taken from the book below: 
 深沢正志『秘境奈良田』山梨ふるさと文庫、1989年 (Fukasawa, Masashi. “The hidden village Narada,” Yamanashi Furusato Bunko, 1989.)
 
-Izumi Konishi (小西いずみ) is responsible for the transcriptions and standard Japanese translations, while Yuki Okada (岡田悠暉) assisted with transcriptions. Minoru Fukasawa (深沢實) provided instructions for some of these.
+Document 1 contains annotations such as glossing.
 
+Izumi Konishi (小西いずみ) is responsible for the transcriptions, standard Japanese translations and linguistic annotations, while Yuki Okada (岡田悠暉) assisted with transcriptions. Minoru Fukasawa (深沢實) provided instructions for some of these.
