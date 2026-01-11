@@ -1,0 +1,95 @@
+開始時間 - 秒.ミリ秒	終了時間 - 秒.ミリ秒	発話	形態素分析	グロス	共通語訳	注
+1.39	10.99	[mu]kasi mukasina[a]jo [ko]no [na]ada[ni [uɴto] udeno jo[i] maŋemonosi[ŋa] itoodaŋeno[o]ni.	mukasi mukasi=naajo kono naada=ni uɴto ude=no jo-i maŋemonosi=ŋa i-too=da=ŋenoo=ni	昔 昔=IJP この 奈良田=DAT うんと 腕=GEN 良い-NPST 曲げ物師=NOM 居る-PST=COP.NPST=HS=SFP	昔　昔ね　この　奈良田に　うんと　腕の　良い　曲げ物師が　いたのだそうだよ。	
+13.22	17.78	kooiQte iebane sokoi ainoteŋa irebane maaQcje juu.			このように　言えばね、そこに　合いの手が　いればね、「マー」って　言う。	収録者に対する解説であり、東京方言的なアクセントで発話されているため、音調記号や形態素境界・グロスは付さない。調査者の「マーッテ」という声が重なっている。
+18.9	24.24	sono] [ma]ŋemonosi[ŋa] u[ɴ]to [u]deno jo[i] [ma]ŋemonosi[ŋa] itoodaŋeno[o]ni.	sono maŋemonosi=ŋa uɴto ude=no jo-i maŋemonosi=ŋa i-too=da=ŋenoo=ni	その 曲げ物師=NOM うんと 腕=GEN 良い-NPST 曲げ物師=NOM 居る-PST=COP.NPST=HS=SFP	その　曲げ物師が　うんと　腕の　良い　曲げ物師が　いたのだそうだよ。	
+24.56	33.62	so[o]sicja[a] nata[a] ho]re [ja]kehata[o] kokozja[a] sitee[ru]doo[de] jakihata[a] site [ka]seŋanai[ba]doodoo[de	soosicjaa nataa hore jakehata=o koko=zjaa si-tee-ru=doode jakihataa si-te kaseŋa-naiba=doo=doode	そして 夏.TOP ATTN 焼畑=ACC ここ=INS.TOP する-CONT-NPST=CSL 焼畑.ACC する-SEQ 稼ぐ-NEG.HYP=COP.NPST=CSL	そして　夏は　ほら　焼畑を　ここでは　しているので、焼畑を　して　稼がなければならないので、	
+33.793	43.2	[hu]juno ai u[ci] sono [ma]ŋemonocjuuwa [o]hacito[ka] seerotoka [be]ɴtoo [ma]ŋebe[ɴ]toocjuu	huju=no # uci sono maŋemono=cju-u=wa o-haci=toka seero=toka beɴtoo maŋebeɴtoo=cju-u	冬=GEN # 内 FIL 曲げ物=QT.言う-NPST=TOP POL-鉢=MUL 蒸篭=MUL 弁当 曲げ弁当=QT.言う-NPST	冬の　（アイ）　内　その　曲げ物というのは　お鉢とか　蒸篭とか　弁当　曲げ弁当という	
+43.86	45.39	[so]no koto[do]odoo[jo.	sono koto=doo=doo=jo	その 事=COP.NPST=COP.NPST=SFP	その　ことなんだよ。	
+46.057	56.447	[so]site [hu]juzju[u] sorjoo [ma]ŋemonoo kosjai[te] hajakawa[cjoo]o cjoo[o] zuuQto [u]Qte ariQ[to]odooQcje.	sosite huju-zjuu sorjoo maŋemono=o kosjai-te hajakawacjoo=o cjoo=o zuuQto uQ-te ariQ-too=doo=Qcje	そして 冬-中 それ.ACC 曲げ物=ACC 作る-SEQ 早川町=ACC 町=ACC ずっと 売る-SEQ 歩く-PST=COP.NPST=HS	そして　冬中　それを　曲げ物を　拵えて　早川町を　町を　ずっと　売って　歩いたのだって。	
+57.882	58.834	[so]osicja[a]	soosicjaa	そして	そして	
+59.817	66.994	i[ma]de juu [mi]jakoŋaa. [ho]o. [so]koni anoo iQ[tu]mo tomaru ja[do]ŋa aQ[te	ima=de juu mijakoŋaa hoo soko=ni anoo iQtumo tomar-u jado=ŋa aQ-te	今=INS 言う.NPST 都川 保 そこ=DAT FIL いつも 泊る-NPST 宿=NOM 在る-SEQ	今で　言う　都川。保。そこに　あの　いつも　泊まる　宿が　あって	
+67.907	70.793	[so]no maŋemonosi[wa] go[he]ecjuu [na]maedoo[jo.	sono maŋemonosi=wa gohee=cju-u namae=doo=jo	その 曲げ物師=TOP 吾平=QT.言う-NPST 名前=COP.NPST=SFP	その　曲げ物師は　吾平という　名前だよ。	
+71.26	77.872	go[he]ewa i[tu]demo mi [ho]ono sono [ki]maQto[o] jado[i] tomaQcja[a]	gohee=wa itu=demo # hoo=no sono kimaQ-too jado=i tomaQ-cjaa	吾平=TOP いつ=EXPL # 保=GEN その 決まる-PST 宿=ALL 泊る-SEQ	吾平は　いつも　（ミ）　保の　その　決まった　宿に　泊まって	
+77.916	83.4	[so]ositee[te] sono [ma]ŋemonoo moQcja[a] ha]jakawa[cjo]o'o [u]Qte ariQ[to]odooQcje.	soositeete sono maŋemono=o moQ-cjaa hajakawacjoo=o uQ-te ariQ-too=doo=Qcje	そして その 曲げ物=ACC 持つ-SEQ 早川町=ACC 売る-SEQ 歩く-PST=COP.NPST=HS	そして　その　曲物を　持って　早川町を　売って　歩いたのだって。	
+84.486	91.357	soreŋa [so]no [ho]ono tomaru jee[ni [uuɴto] jo[i] musume[ŋa] hito[ri] ito[o]dooQcje.	sore=ŋa sono hoo=no tomar-u jee=ni uuɴto jo-i musume=ŋa hitori i-too=doo=Qcje	それ=NOM FIL 保=GEN 泊る-NPST 家=DAT うんと 良い-NPST 娘=NOM 一人 居る-PST=COP.NPST=HS	それが　その　保の　泊まる　家に　とても　良い　娘が　一人　いたのだって。	
+91.674	94.383	[so]reŋa [ko]to[zi]Qcjuu [na]maido[o]doo#{ŋa}	sore=ŋa kotozi=Qcjuu namai=doo=dooŋa	それ=NOM 琴路=QT.言う 名前=COP.NPST=ADVS	それが　琴路という　名前なのだが	
+95.267	100.329	[so]rja[a] kirjoojosi[no] jo[i] kodaQ[to]odooQcjedoo[jo.	sorjaa kirjoojosi=no jo-i ko=daQ-too=doo=Qcjedoo=jo	それ.TOP 器量良し=GEN 良い-NPST 子=COP-PST=COP.NPST=HS=SFP	それは　器量良しの　良い　娘だったのだそうだよ。	
+101.78	108.89	[so]ositai[ba] i[tu]nomani[ka] go[he]eto [ko]tozja[a] otokoto oɴnano na[ka]ni uɴnaQ[te	soositaiba itunomanika gohee=to kotozjaa otoko=to oɴna=no naka=ni uɴ-naQ-te	すると いつの間にか 吾平=COM 琴路.TOP 男=COM 女=GEN 仲=DAT EMPH-成る-SEQ	そうすると　いつの間にか　吾平と　琴路は　男と　女の　仲に　なって	
+109.36	113.23	koɴda [ha]narerare[no]o go gu[ni] uɴnaQ[to]odooQcje.	koɴda hanare-rare-noo # gu=ni uɴ-naQ-too=doo=Qcje	今度.TOP 離れる-PASS-NEG.NPST # 具=DAT EMPH-成る-PST=COP.NPST=HS	今度は　離れられない　（ゴ）　具合に　なったのだそうだ。	
+114.027	118.269	soreŋa naa[da]no go[hee]wa hi[to]rimusu[ko]doodoode [ho]re	sore=ŋa naada=no gohee=wa hitorimusuko=doo=doode hore	それ=NOM 奈良田=GEN 吾平=TOP 一人息子=COP.NPST=CSL ATTN	それが　奈良田の　吾平は　一人息子なので　ほら	
+119.615	122.534	naa[da]no jee[o] tuŋana[i]naa[no]odoode ha[i]	naada=no jee=o tuŋa-nai=naanoo=doode hai	奈良田=GEN 家=ACC 継ぐ-NEG.HYP=OBL=CSL もう	奈良田の　家を　継がなければならないので　もう	
+123.013	124.933	[si]ɴrui[sjuno] atubaQ[cjaa]	siɴruisju=no atubaQ-cjaa	親戚=GEN 集まる-SEQ	親類衆が　集まって	
+125.14	128.655	go[he]emo ha[i] maa [jo]meo uke[ŋo]rodoo[de	gohee=mo hai maa jome=o uke-ŋoro=doo=de	吾平=ADD もう HDG 嫁=ACC 貰う-頃=COP.NPST=CSL	「吾平も　もう　まあ　嫁を　もらう頃だから	
+128.985	134.873	[ano] koŋa jo[i]zjaana[i]ra[ka [kono] koŋa jo[i]zjaana[i]ra[ka]Qcje mura[no] naa[da]no mura[no]	ano ko=ŋa jo-i=zjaa=na-i=ra=ka kono ko=ŋa jo-i=zjaa=na-i=ra=ka=Qcje mura=no naada=no mura=no	あの 子=NOM 良い-NPST=COP.HYP=NEG-NPST=INFR=QP この 子=NOM 良い-NPST=COP.HYP=NEG-NPST=INFR=QP=QT 村=GEN 奈良田=GEN 村=GEN	あの　娘が　良いんじゃないだろうか　この　娘が　良いんじゃないだろうか」と　村の　奈良田の　村の	
+135.113	138.254	[o]ɴnano ko[do]mo[o] sono jeQ[cja]aite ha[i]	oɴna=no ko-domo=o sono jeQ-cjaa=i-te hai	女=GEN 子-PL=ACC FIL 選る-SEQ=CONT-SEQ もう	女の　子たちを　その　選っていて　もう	
+138.851	143.809	hoo[da]. [a]no koŋa jo[i[jo]cjuuni [si]ɴruisjuu zi zja[a] kimaQ[te]	hoo=da ano ko=ŋa jo-i=jo=cju-u=ni siɴruisjuu # zjaa kimaQ-te	そう=COP.NPST あの 子=NOM 良い-NPST=SFP=QT.言う-NPST=DAT 親戚 # INS.TOP 決まる-SEQ	「そうだ。あの　娘が　良いよ」ということに　親類衆（ジ）　では　決まって	
+144.417	150.66	koɴ[na] go[he]eŋa kita[ra] ano koto toQtu[ke]nainaanooQ[cje] hana[i]teitoodooQcje.	koɴna gohee=ŋa ki-tara ano ko=to toQtuke-nai=naanoo=Qcje hanai-te=i-too=doo=Qcje	今度.TOP 吾平=NOM 来る-HYP あの 子=COM くっ付ける-NEG.HYP=OBL=QT 話す-SEQ=CONT-PST=COP.NPST=HS	「今度　吾平が　来たら　あの　娘と　くっつけなければならない」って　話して　いたのだそうだ。	
+151.478	153.04	sono koɴ[na] go[he]ewa	sono koɴna gohee=wa	FIL 今度.TOP 吾平=TOP	その　今度は　吾平は	
+153.733	155.733	[hu]juzjuu hooni ito[o]doo[ŋa	huju-zjuu hoo=ni i-too=dooŋa	冬-中 保=DAT 居る-PST=ADVS	冬中　保に　いたのだが	
+156.1	158.693	koɴ[na] ha[i] nukumari[ha]naatoodoo[de]	koɴna hai nukumari-hanaa-too=doode	今度.TOP もう 温まる-INC-PST=CSL	「今度は　もう　暖かくなりはじめたので	
+158.813	164.893	[ja]masi[ŋo]too sinainaa[no]odoo[de] orjaa naa[da]i kai[ru]jo[o]cite [so]o iQta[i]ba	jamasiŋoto=o si-nai=naanoo=doode orjaa naada=i kai-ru=joo=cite soo iQ-taiba	山仕事=ACC する-NEG.HYP=OBL=CSL 1SG.TOP 奈良田=CONT 帰る-NPST=SFP=QT そう 言う-CNS	山仕事を　しなければならないので　私は　奈良田に　帰るよ」と　そう　言ったら	
+165.627	168.4	sa[a] kotozja[a] turaku[te]	saa kotozjaa tura-ku-te	ATTN 琴路.TOP つらい-ADVL-SEQ	さあ　琴路は　つらくて	
+169.084	172.036	[ha]narerare[no]oQcjuu sa[wa]ŋidooQcje.	hanare-rare-noo=Qcjuu sawaŋi=doo=Qcje	離れる-POT-NEG.NPST=QT.ADN 騒ぎ=COP.NPST=HS	離れられないという騒ぎだって。	
+172.217	174.533	[so]re[ŋa] so]o[wa] iQcja[a]irarenoo[jo.	sore=ŋa soo=wa iQ-cjaa=i-rare-noo=jo	それ=NOM そう=TOP 言う-DEQ=CONT-POT-NEG.NPST=SFP	「それが　そうは　言っていられないよ。	
+174.774	177.516	[o]rjaa naa[da]e kaira[na]ibaQcje go[he]ewa	orjaa naada=e kaira-naiba=Qcje gohee=wa	1SG.TOP 奈良田=ALL 帰る-NEG.HYP=QT 吾平=TOP	私は　奈良田に　帰らなければ」って　吾平は	
+177.71	179.484	naa[da]e kaeQ[te]ki[to]odooQcje.	naada=e kae-Qte=ki-too=doo=Qcje	奈良田=ALL 帰る-SEQ=VEN-PST=COP.NPST=HS	奈良田に　帰って　来たのだって。	
+181.033	183.646	[so]site ha[i] mu]rasja[a] ha[i] so]no	sosite hai murasjaa hai sono	そして もう 村衆.TOP もう FIL	そして　もう　村の人達は　もう　その	muraとsjaaの間に若干間がある
+183.88	190.117	[ho]ode koto[zi]cjuu musume[to] jo[i] nakacjuu[wa [u]wasaŋa ha[i] naa[da]emo [ki]tee[te]	hoo=de kotozi=cju-u musume=to jo-i naka=cju-u=wa uwasa=ŋa hai naada=e=mo ki-tee-te	保=INS 琴=QT.言う-NPST 娘=COM 良い-NPST 仲=QT.言う-NPST=TOP 噂=NOM もう 奈良田=ALL=ADD 来る-CONT-SEQ	保で　琴路という　娘と　良い　仲というのは　噂が　もう　奈良田にも　来ていて	
+190.604	197.62	[ho]ɴ aki[re]do[o. go[he]e[wa] ho]oni [ho]ono koni tora[re]cjaanaano[o]Qcje iQtee[to]odooQ[cje]doo[jo.	hoɴ akire=doo gohee=wa hoo=ni hoo=no ko=ni tor-are-cjaa=naanoo=Qcje iQ-tee-too=doo=Qcjedoo=jo	本当に 呆れる=COP.NPST 吾平=TOP 保=DAT 保=GEN 子=DAT 取る-PASS-HYP=OBL=QT 言う-CONT-PST=COP.NPST=HS=SFP	「本当に　呆れることだ。吾平は　保に　保の　娘に　とられてはならない」と　言っていたのだそうだよ。	hoɴ：『日本方言大辞典』によると副詞「ホン」は岐阜県や愛知県の例があるが山梨県内の例はあがっていない。hoɴakire全体で名詞の可能性もあるか。
+198.133	204.278	[sosi]te go[he]eŋa ki[to]odoode [cju]udo koɴda[a] sono naa[dano] musume[o]	sosite gohee=ŋa ki-too=doode cjuudo koɴdaa sono naada=no musume=o	そして 吾平=NOM 来る-PST=CSL すぐ 今度.TOP その 奈良田=GEN 娘=ACC	そして　吾平が　来たので　すぐに　今度は　その　奈良田の　娘を	
+204.471	207.262	[a]no koo [jo]meni ukero[jo] wa[rja]aQcje	ano ko=o jome=ni uke-ro=jo warjaa=Qcje	あの 子=ACC 嫁=DAT 貰う-IMP=SFP 2SG.TOP=QT	「あの　娘を　嫁に　もらえよ　お前は」と	
+207.656	210.285	[si]ɴruizjuu[de] soo iQte iQto[o]dooQcje.	siɴrui-zjuu=de soo iQ-te iQ-too=doo=Qcje	親戚-中=INS そう 言う-SEQ 言う-PST=COP.NPST=HS	親類中で　そう　言って　言ったのだそうだ。	
+210.737	213.993	sono go[he]emo heɴzinja[a] komaQ[te]	sono gohee=mo heɴzinjaa komaQ-te	FIL 吾平=ADD 返事.DAT.TOP 困る-SEQ	その　吾平も　返事に　困って	
+214.155	217.92	maa [i]ɴmee kaɴŋa[i]tecite jo[i]Q[sa] iQto[o]doo.	maa iɴmee kaɴŋai-te=cite joiQsa iQ-too=doo	HDG 少し 考える-SEQ=QT やっと 言う-PST=COP.NPST	「まあ　少し　考えて」と　やっと　言ったのだ。	
+218.431	223.125	ko[ɴ]daa iQpo[o] hoono koto[zja]a hore [ko]koe hasiQ[te]ki[too]doo naa[dai.	koɴdaa iQpoo hoo=no kotozjaa hore koko=e hasiQ-te=ki-too=doo naada=i	今度.TOP 一方 保=GEN 琴路.TOP ATTN ここ=ALL 走る-CONT=VEN-PST=COP.NPST 奈良田=ALL	今度は　一方　保の　琴路は　ほら　ここへ　走って来たのだ　奈良田に。	
+223.179	224.005	go[heeɴ.	gohee=ɴ	吾平=DAT	吾平に。	
+225.324	227.475	[koɴ]daa moɴ[do]oQcje	koɴdaa moɴdoo=Qcje	今度.TOP FIL=HS	今度は　あれだそうだ	
+227.78	232.183	ma[i]nici naa[dai] jo[ru]i na[re]ba ka]eQcja[a]	mainici naada=i joru=i nar-eba kaeQ-cjaa	毎日 奈良田=ALL 夜=ALL 成る-HYP 帰る-SEQ	毎日　奈良田に　夜に　なれば　帰って	mainici [mːainiʨi] 強調のために頭子音が長く発音されている。
+232.506	234.19	ano go[ri]no micjoo.	ano go-ri=no micjoo	FIL 五-CLF=GEN 道.ACC	あの　五里の　道を。	
+234.849	238.687	[ho]ono [mu]keɴno i[masino] sjadoota[a] ciŋoodoo[jo.	hoo=no mukeɴ=no imasi=no sjadoo=taa ciŋoo=doo=jo	保=GEN 向い=GEN 今=GEN 車道=COM.TOP 違う.NPST=COP.NPST=SFP	保の　向いの　今の　車道とは　違うんだよ。	imasino：si 未詳
+239.128	245.128	[mu]keɴpote[e] iQcja[a] jama[a] koo koo iQcja[a] naa[dae] ku[ru]dooQcje.	mukeɴpote=e iQ-cjaa jamaa koo koo iQ-cjaa naada=e ku-ru=doo=Qcje	向こう側=ALL 行く-SEQ 山.ACC こう こう 行く-SEQ 奈良田=ALL 来る-NPST=COP.NPST=HS	向こう側へ　行って　山を　こう　こう　行って　奈良田に　来るのだそうだ。	mukeɴpote：向こう側（深沢實氏の教示による）
+245.906	251.913	sa[a] komaQ[te] naadasju[mo] ko ko[ɴ]jamo ku[ru]ra[ka] ano koŋaQcicja[a	saa komaQ-te naada-sju=mo # koɴja=mo ku-ru=ra=ka ano ko=ŋa=Qci-cjaa	ATTN 困る-SEQ 奈良田-人.PL=ADD # 今夜=ADD 来る-NPST=INFR=QP あの 子=NOM=QT.言う-SEQ	さあ　困って　奈良田の人たちも　（コ）　「今夜も　来るだろうか　あの子が」と言って	
+252.219	255.299	[mi]harjoo sitee[re]ba [ho]ɴkoni ku[ru]dooQcjedoojo.	miharjoo si-tee-reba hoɴko=ni ku-ru=doo=Qcjedoo=jo	見張り.ACC する-CONT-HYP 本当=COP.ADVL 来る-NPST=COP.NPST=HS=SFP	見張りを　していると　本当に　来るのだそうだよ。	
+255.539	261.813	[ko]koi [ro]osoku[u] koo nihoɴ [o]Qtate[te] koo sibaQ[te] hi[o] tu[ke]cjaa	koko=i roosokuu koo ni-hoɴ oQtate-te koo sibaQ-te hi=o tuke-cjaa	ここ=ALL 蝋燭.ACC こう 二-CLF 立てる-SEQ こう 縛る-SEQ 火=ACC 付ける-SEQ	ここに　ろうそくを　こう　日本　立てて　こう　縛って　火を　つけて	
+262.504	266.693	[ja]maɴ na[ka] sono suŋo[i] gjoosoodaQ[to]oQcjedoojo.	jama=ɴ naka sono suŋo-i gjoosoo=daQ-too=Qcjedoo=jo	山=GEN 中 FIL 凄い-NPST 形相=COP-PST=HS=SFP	山の　中　その　すごい　形相だったそうだよ。	
+267.513	271.547	[so]site koɴ[na] go[he]eŋa [ko]maQ[te] ma[ini]ci kuru[doode.	sosite koɴna gohee=ŋa komaQ-te mainici ku-ru=doode	そして 今度.TOP 吾平=NOM 困る-SEQ 毎日 来る-NPST=CSL	そして　今度は　吾平が　困って　毎日　来るので。	
+271.785	275.945	[do]o sirudu[ra]to omoQ[te] hito[ba]ɴ kaɴŋa[i]te	doo si-ru=dura=to omoQ-te hitobaɴ kaɴŋai-te	どう する-NPST=COP.INFR=QT 思う-SEQ 一晩 考える-SEQ	「どう　しよう」と　思って　一晩　考えて	doo sirudura：直訳すれば「どう　するのだろう」
+276.687	280.54	ko[ɴ]da keQ[si]ɴŋa tu[i]ta cjuude go[he]ewana[a]jo	koɴda keQsiɴ=ŋa tui-ta cju-u=de gohee=wa=naajo	今度.TOP 決心=NOM 付く-PST QT.言う-NPST=COP.SEQ 吾平=TOP=IJP	今度は　「決心が　ついた」　ということで　吾平はね	tuita と cjuude の間にポーズがある。
+281.502	282.309	are[do]oQcjedoo[jo.	are=doo=Qcjedoo=jo	あれ=COP.NPST=HS=SFP	あれだそうだよ。	
+282.59	287.002	[ja]ma[i] koo naa[dae] ku[ru] toko[ni [maru]taba[si]ŋa a[ru]dooQ[cje] iQka[sjo.	jama=i koo naada=e ku-ru toko=ni marutabasi=ŋa ar-u=doo=Qcje iQ-kasjo	山=ALL こう 奈良田=ALL 来る-NPST 所=DAT 丸太橋=NOM 在る-NPST=COP.NPST=HS 一-CLF	山に　こう　奈良田に　来る　ところに　丸太橋が　あるのだって　一か所。	
+288.103	290.571	[so]koi [no]koŋi[rio] moQ[te] a[ru] baɴ	soko=i nokoŋiri=o moQ-te aru baɴ	そこ=ALL 鋸=ACC 持つ-SEQ ある 晩	そこに　のこぎりを　持って　ある　晩	
+291.571	293.405	ano [no]boQteeQ[te	ano noboQ-teeQ-te	FIL 登る-SEQ.AND-SEQ	あの　登って行って	
+294.014	298.74	[so]site [koo] saɴ[boɴ [ma]rukiba[si]ŋa koo a[ru] tokono [ko]QciQpi[raa	sosite koo saɴ-boɴ marukibasi=ŋa koo ar-u toko=no koQciQpiraa	そして こう 三-CLF 丸木橋=NOM こう 在る-NPST 所=GEN こっち側.ACC	そして　こう　三本　丸木橋が　こう　ある　所の　こっち側を	koQciQpira：こっち側（深沢實氏の教示による）。『甲州方言』（p. 394）は「ひら」を「山の斜面」のこととし「向こうっぴらにはまだ雪があるが」という例をあげる。
+300.234	303.51	[sa]ɴbuɴno ici[du]tu saɴ[bo]ɴo nokoŋiri[de]	saɴ-buɴ=no ici=dutu saɴ-boɴ=o nokoŋiri=de	三-CLF=GEN 一=DIST 三-CLF=ACC 鋸=INS	三分の　一ずつ　三本を　のこぎりで	
+303.79	307.16	kiQ[ko]ɴdeoito[o]daŋenoo. [saa] hu[me]ba	kiQkoɴ-de=oi-too=da=ŋenoo saa hum-eba	切り込む-SEQ=PREP-PST=COP.NPST=HS ATTN 踏む-HYP	切り込んでおいたのだそうだ。さあ　踏めば	
+307.595	309.31	[so]koŋa [hi]Qkuzikeru#{[roo]re}.	soko=ŋa hiQ-kuzike-ru=roore	そこ=NOM EMPH-折れる-NPST=CSL	そこが　折れる#{ので}。	hiQkuzikeru：hiQ は接頭辞。全体で「折れる」の意。
+310.106	315.36	saa [so]reta[a] sirade kotozja[a] sono baɴ[mo] sono [u]resiŋe[ni] ki[to]o.	saa sore=taa sira-de kotozjaa sono baɴ=mo sono uresi-ŋe=ni ki-too	ATTN それ=QT.TOP 知る-NEG.SEQ 琴路.TOP その 晩=ADD FIL 嬉しい-APPE=COP.ADVL 来る-PST	さあ　それとは　知らないで　琴路は　その　晩も　その　うれしそうに　来た。	
+316.11	320.27	koɴ[na] so]koi koo watarikoɴ[da]iba pa[a]Qto o[re]toodoo.	koɴna soko=i koo watarikoɴ-daiba paaQto ore-too=doo	今度.TOP そこ=ALL こう 渡り込む-CNS ぱっと 折れる-PST=COP.NPST	今度は　そこに　こう　渡り込んだら　ぱーっと　折れたんだ。	
+320.452	322.21	[ma]Qsa[ka]sai	maQsakasa=i	真逆さ=ALL	真っ逆さまに	
+323.461	325.7	[ha]ja[kaa]no [ga]ke[e]	hajakaa=no gake=e	早川=GEN 崖=ALL	早川の　崖に	
+326.206	327.881	u[ci]ocitoodooQcjedoo#{jo} ko[to]zjaa.	uci-oci-too=doo=Qcjedoo=jo kotozjaa	EMPH-落ちる-PST=COP.NPST=HS=SFP 琴路.TOP	落ちたのだそうだ#{よ}　琴路は。	
+328.78	332.915	[so]site [so]koo nokoŋiri[de] kiQ[ko]ɴ[de] naa[da]e [ka]iQ[te]ki[te]	sosite soko=o nokoŋiri=de kiQkoɴ-de naada=e kaiQ-te=ki-te	そして そこ=ACC 鋸=INS 切り込む-SEQ 奈良田=ALL 帰る-SEQ=VEN-SEQ	そして　そこを　のこぎりで　切り込んで　奈良田に　帰って来て	
+333.334	334.33	go[he]ewa	gohee=wa	吾平=TOP	吾平は	
+334.78	343.99	[ko]ŋaano[o] jo[so]no {咳} [ta]sjo[no] murata[a] iQsjoni naQcja[a] mazu[i]joono kiso kisoka[a] okasi[ide]	koŋaa=noo joso=no # tasjo=no mura=taa iQsjo=ni naQ-cjaa mazu-i=joo=no # kisokaa okasi-i=de	このよう=GEN 他所=GEN # 他所=GEN 村=COM.TOP 一緒=COP.ADVL 成る-HYP まずい-NPST=APPE=GEN # 規則.TOP 変-NPST=CSL	「こんな　他所の　{咳}　他所の　村とは　一緒に　なっては　まずいような　（キソ）　規則は　おかしいから	
+344.319	351.39	[ko]reQkara[a] joso[no] moɴda[ra] do[ko]no cino monode[mo] jo[i] nakani nare[ba]	kore=Qkaraa joso=no moɴ=dara doko=no ci=no mono=demo jo-i naka=ni nar-eba	これ=ABL.TOP 他所=GEN 者=COP.HYP どこ=GEN 地=GEN 者=EXPL 良い-NPST 仲=DAT 成る-HYP	これからは　他所の　者なら　どこの　地の　者でも　良い　仲に　なれば	moɴdara：daraはコピュラ仮定形として一般的ではないが，古い形の可能性があるか。
+351.629	355.539	iQ[sjo]ni musubareru koto[o] urjaa	iQsjo=ni musub-are-ru koto=o urjaa	一緒=COP.ADVL 結ぶ-PASS-NPST 事=ACC 1PL;1SG.TOP	一緒に　結ばれる　ことを　私は	urjaa : 不詳。ore.waとura.waが一時的に混同されたものか。
+356.398	359.14	[ki]boosurucjuu [ju]iŋo[ɴ]o kai[te]	kiboo-su-ru=cjuu juiŋoɴ=o kai-te	希望-VBL-NPST=QT.言う 遺言=ACC 書く-SEQ	希望する」という　遺言を　書いて	
+359.874	362.149	[sosi]te [te]ma[i]wa [na]a[dano]	sosite temai=wa naada=no	そして REFL=TOP 奈良田=GEN	そして　自分は　奈良田の	
+362.516	364.92	[mu]kasi aQ[to]odoo [ni]sinohabaQcje.	mukasi aQ-too=doo nisinohaba=Qcje	昔 在る-PST=COP.NPST 西のはば=QT	昔　あったんだ　「西のはば」って。	mukasi：ここから jaakeɴ「言っていたよ」までは「西のはば」に対する説明が挿入されている。「西のはば」は移転前の集落にあった場所。
+365.213	370.5	[ko]o [ko]koira[ŋa] [ko]koŋa [ni]sinohabato sure[ba] kokoe ku[re]ba u[ɴ]to [o]Qka[na]kute	koo kokoira=ŋa koko=ŋa nisinohaba=to su-reba koko=e ku-reba uɴto oQkana-ku-te	こう この辺=NOM ここ=NOM 西のはば=QT する-HYP ここ=ALL 来る-HYP うんと 怖い;恐ろしい-ADVL-SEQ	こう　ここのあたりが　ここが　西のはばとすれば　ここへ　来ると　とても　怖くて	
+370.683	373.74	jo[ku] oja[ŋa] ura[ŋa] nuko[i] ori[mo]	joku oja=ŋa ura=ŋa nuko-i ori=mo	よく 親=NOM 1SG=NOM 小さい-NPST 時=ADD	よく　親が　私が　小さい　時も	
+374.25	378.09	[ni]sinohaba[i] ikuzja[a]na[i]jo u[ci]ocirudeQcicja[a] jaakeɴ.	nisinohaba=i ik-u=zjaa=na-i=jo uci-oci-ru=de=Qcicjaa jaa-ke=ɴ	西のはば=ALL 行く-NPST=COP.HYP=NEG-NPST=SFP EMPH-落ちる-NPST=CSL=QT 言う-PST=SFP	「西のはばへ　行くんじゃないよ　落ちるから」と　言っていたよ。	jaakeɴ：深沢實氏によれば jaakeni で「言っていたよ」にあたるとのこと。分析は暫定的なもの。
+378.403	380.413	[so]koe ki[te] maQsa[ka]sae	soko=e ki-te maQsakasa=e	そこ=ALL 来る-SEQ 真逆さ=ALL	そこへ　来て　真っ逆さまに	
+381.11	385.985	[a]no [a]redoQ[cje]doo#{jo} go[he]ewa [to]bikoɴde uQciɴ[do]odoQcjedoo.	ano are=do=Qcjedoo=jo gohee=wa tobikoɴ-de uQ-ciɴ-doo=do=Qcjedoo	FIL あれ=COP.NPST=HS=SFP 吾平=TOP 飛び込む-SEQ EMPH-死ぬ-PST=COP.NPST=HS	あの　あれだそうだ#{よ}　吾平は　飛び込んで　死んだんだそうだ。	
+386.334	389.14	[so]ositai[ba] naa[da]de [to]bikoɴ[do]o moɴ[to]	soositaiba naada=de tobikoɴ-doo moɴ=to	すると 奈良田=INS 飛び込む-PST 者=COM	そうしたら　奈良田で　飛び込んだ　者と	
+389.55	393.136	[ho]ono [ga]keno u[e]de tobikoɴ[do]o [ko]to[zi]to	hoo=no gake=no ue=de tobikoɴ-doo kotozi=to	保=GEN 崖=GEN 上=INS 飛び込む-PST 琴路=COM	保の　崖の　上で　飛び込んだ　琴路と	
+394.013	399.238	[o]nazi toko[i] tomaQ[te] hu[ta]ri soroQ[te] koo tomaQto[o]daŋenoo[jo.	onazi toko=i tomaQ-te hutari soroQ-te koo tomaQ-too=da=ŋenoo=jo	同じ 所=ALL 止まる-SEQ 二人 揃う-SEQ こう 止まる-PST=COP.NPST=HS=SFP	同じ　所に　止まって　二人　揃って　こう　止まったのだそうだよ。	
+399.722	400.819	daka sorede hore	# sorede hore	# それで ATTN	／／ それで　ほら	
+402.45	405.6	[ko]to[zja]a aŋaani [ha]ja[ka]ano toko[dooni.	kotozjaa aŋaa=ni hajakaa=no toko=doo=ni	琴路.TOP あのよう=COP.ADVL 早川=GEN 所=COP.NPST=SFP	琴路は　あのように　早川の　所だよ。	
+406.344	409.78	go[he]ewa kokodo[o]dooŋa [i]Qsjoni tomaQto[o]dooQcje.	gohee=wa koko=doo=dooŋa iQsjo=ni tomaQ-too=doo=Qcje	吾平=TOP ここ=COP.NPST=ADVS 一緒=COP.ADVL 止まる;泊る-PST=COP.NPST=HS	吾平は　ここなのだが　一緒に　止まったのだって。	
+409.849	411.86	[na]ŋa[re]teQte [o]nasi toko#{i}.	naŋare-teQ-te onasi toko=i	流れる-SEQ.AND-SEQ 同じ 所=ALL	流れて行って　同じ　所#{に}。	
+412.465	415.746	to [ho]ɴkoni soreQ[ka]ra go[he]eno kakioki[ŋa]	to hoɴko=ni sore=Qkara gohee=no kakioki=ŋa	すると 本当=COP.ADVL それ=ABL 吾平=GEN 書き置き=NOM	すると　本当に　それから　吾平の　書き置きが	
+416.075	420.993	aQ[to]odoo[de] koɴdaa [mu]rade[mo] kaiŋjo[o] site moɴdoo[jo] joriaio site	aQ-too=doode koɴdaa mura=demo kaiŋjoo si-te moɴdoo=jo joriai=o si-te	在る-PST=CSL 今度.TOP 村=EXPL 会議.ACC する-SEQ FIL=SFP 会議=ACC する-SEQ	あったので　今度は　村でも　会議を　して　あれだよ　寄り合いを　して	
+421.683	428.861	[so]site tasjo[no] moɴde[mo] naɴde[mo [so]reQkara[a] iQsjoni nare[ru]cjuu [ho]oni naQ[to]odooQcjedoo[jo.	sosite tasjo=no moɴ=demo naɴ=demo sore=Qkaraa iQsjo=ni nar-e-ru=cju-u hoo=ni naQ-too=doo=Qcjedoo=jo	そして 他所=GEN 者=EXPL 何=EXPL それ=ABL 一緒=DAT 成る-POT-NPST=QT.言う-NPST 法=DAT 成る-PST=COP.NPST=HS=SFP	そして　他所の　者でも　何でも　それからは　一緒に　なれるという　法に　なったのだそうだよ。	
+428.983	436.548	[soi]de i[ma]a naada[de]mo doQ too[ku]karamo [jo]meni ki[i] jomeni tasjo[i] iQta[ri] sitee[ru]doo[jo.	soide imaa naada=demo # too-ku=kara=mo jome=ni kii jome=ni tasjo=i iQ-tari si-tee-ru=doo=jo	それで 今.TOP 奈良田=EXPL # 遠い-ADVL=ABL=ADD 嫁=DAT 来る.SEQ 嫁=DAT 他所=ALL 行く-MUL する-CONT-NPST=COP.NPST=SFP	それで　今は　奈良田でも　（ドッ）　遠くからも　嫁に　来て　嫁に　他所に　行ったり　しているんだよ。	
+437.658	438.86	[so]rede hiQ[ci]mai.	sorede hiQcimai	それで お終い	それで　おしまい。	

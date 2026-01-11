@@ -1,0 +1,2669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2026-01-12T00:20:15+09:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///D:/Dropbox/narada_hayakawa/discourse/Fumie_mukasibanasi/1fumie_kotoji/20050916_fumie_kotoji.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../20050916_fumie_kotoji.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:2bcbf40a-4d08-49b8-9ebb-e3adfd2c19cf</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">1302</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="10990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="13220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="17780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="18900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="24240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="24560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="33620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="33793"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="43200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="43860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="45390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="46057"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="56447"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="57882"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="58834"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="59817"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="66994"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="67907"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="70793"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="71260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="77872"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="77916"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="83400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="84486"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="91357"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="91674"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="94383"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="95267"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="100329"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="101780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="108890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="109360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="113230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="114027"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="118269"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="119615"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="122534"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="123013"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="124933"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="125140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="128655"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="128985"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="134873"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="135113"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="138254"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="138851"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="143809"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="144417"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="150660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="151478"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="153040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="153733"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="155733"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="156100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="158693"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="158813"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="164893"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="165627"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="168400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="169084"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="172036"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="172217"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="174533"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="174774"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="177516"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="177710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="179484"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="181033"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="183646"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="183880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="190117"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="190604"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="197620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="198133"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="204278"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="204471"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="207262"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="207656"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="210285"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="210737"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="213993"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="214155"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="217920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="218431"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="223125"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="223179"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="224005"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="225324"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="227475"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="227780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="232183"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="232506"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="234190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="234849"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="238687"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="239128"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="245128"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="245906"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="251913"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="252219"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="255299"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="255539"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="261813"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="262504"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="266693"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="267513"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="271547"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="271785"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="275945"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="276687"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="280540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="281502"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="282309"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="282590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="287002"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="288103"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="290571"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="291571"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="293405"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="294014"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="298740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="300234"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="303510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="303790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="307160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="307595"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="309310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="310106"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="315360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="316110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="320270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="320452"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="322210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="323461"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="325700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="326206"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="327881"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="328780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="332915"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="333334"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="334330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="334780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="343990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="344319"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="351390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="351629"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="355539"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="356398"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="359140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="359874"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="362149"/>
+        <TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="362516"/>
+        <TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="364920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts155" TIME_VALUE="365213"/>
+        <TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="370500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="370683"/>
+        <TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="373740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts159" TIME_VALUE="374250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts160" TIME_VALUE="378090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts161" TIME_VALUE="378403"/>
+        <TIME_SLOT TIME_SLOT_ID="ts162" TIME_VALUE="380413"/>
+        <TIME_SLOT TIME_SLOT_ID="ts163" TIME_VALUE="381110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts164" TIME_VALUE="385985"/>
+        <TIME_SLOT TIME_SLOT_ID="ts165" TIME_VALUE="386334"/>
+        <TIME_SLOT TIME_SLOT_ID="ts166" TIME_VALUE="389140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts167" TIME_VALUE="389550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts168" TIME_VALUE="393136"/>
+        <TIME_SLOT TIME_SLOT_ID="ts169" TIME_VALUE="394013"/>
+        <TIME_SLOT TIME_SLOT_ID="ts170" TIME_VALUE="399238"/>
+        <TIME_SLOT TIME_SLOT_ID="ts171" TIME_VALUE="399722"/>
+        <TIME_SLOT TIME_SLOT_ID="ts172" TIME_VALUE="400819"/>
+        <TIME_SLOT TIME_SLOT_ID="ts173" TIME_VALUE="402450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts174" TIME_VALUE="405600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts175" TIME_VALUE="406344"/>
+        <TIME_SLOT TIME_SLOT_ID="ts176" TIME_VALUE="409780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts177" TIME_VALUE="409849"/>
+        <TIME_SLOT TIME_SLOT_ID="ts178" TIME_VALUE="411860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts179" TIME_VALUE="412465"/>
+        <TIME_SLOT TIME_SLOT_ID="ts180" TIME_VALUE="415746"/>
+        <TIME_SLOT TIME_SLOT_ID="ts181" TIME_VALUE="416075"/>
+        <TIME_SLOT TIME_SLOT_ID="ts182" TIME_VALUE="420993"/>
+        <TIME_SLOT TIME_SLOT_ID="ts183" TIME_VALUE="421683"/>
+        <TIME_SLOT TIME_SLOT_ID="ts184" TIME_VALUE="428861"/>
+        <TIME_SLOT TIME_SLOT_ID="ts185" TIME_VALUE="428983"/>
+        <TIME_SLOT TIME_SLOT_ID="ts186" TIME_VALUE="436548"/>
+        <TIME_SLOT TIME_SLOT_ID="ts187" TIME_VALUE="437658"/>
+        <TIME_SLOT TIME_SLOT_ID="ts188" TIME_VALUE="438860"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="発話">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a645"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>[mu]kasi mukasina[a]jo [ko]no [na]ada[ni [uɴto] udeno jo[i] maŋemonosi[ŋa] itoodaŋeno[o]ni.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a646"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>kooiQte iebane sokoi ainoteŋa irebane maaQcje juu.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a647"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>sono] [ma]ŋemonosi[ŋa] u[ɴ]to [u]deno jo[i] [ma]ŋemonosi[ŋa] itoodaŋeno[o]ni.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a648"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>so[o]sicja[a] nata[a] ho]re [ja]kehata[o] kokozja[a] sitee[ru]doo[de] jakihata[a] site [ka]seŋanai[ba]doodoo[de</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a649"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>[hu]juno ai u[ci] sono [ma]ŋemonocjuuwa [o]hacito[ka] seerotoka [be]ɴtoo [ma]ŋebe[ɴ]toocjuu</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a650"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>[so]no koto[do]odoo[jo.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a651"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>[so]site [hu]juzju[u] sorjoo [ma]ŋemonoo kosjai[te] hajakawa[cjoo]o cjoo[o] zuuQto [u]Qte ariQ[to]odooQcje.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a652"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>[so]osicja[a]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a653"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>i[ma]de juu [mi]jakoŋaa. [ho]o. [so]koni anoo iQ[tu]mo tomaru ja[do]ŋa aQ[te</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a654"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>[so]no maŋemonosi[wa] go[he]ecjuu [na]maedoo[jo.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a655"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>go[he]ewa i[tu]demo mi [ho]ono sono [ki]maQto[o] jado[i] tomaQcja[a]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a656"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>[so]ositee[te] sono [ma]ŋemonoo moQcja[a] ha]jakawa[cjo]o'o [u]Qte ariQ[to]odooQcje.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a657"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>soreŋa [so]no [ho]ono tomaru jee[ni [uuɴto] jo[i] musume[ŋa] hito[ri] ito[o]dooQcje.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a658"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>[so]reŋa [ko]to[zi]Qcjuu [na]maido[o]doo#{ŋa}</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a659"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>[so]rja[a] kirjoojosi[no] jo[i] kodaQ[to]odooQcjedoo[jo.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a660"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>[so]ositai[ba] i[tu]nomani[ka] go[he]eto [ko]tozja[a] otokoto oɴnano na[ka]ni uɴnaQ[te</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a661"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>koɴda [ha]narerare[no]o go gu[ni] uɴnaQ[to]odooQcje.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a662"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>soreŋa naa[da]no go[hee]wa hi[to]rimusu[ko]doodoode [ho]re</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a663"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>naa[da]no jee[o] tuŋana[i]naa[no]odoode ha[i]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a664"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>[si]ɴrui[sjuno] atubaQ[cjaa]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a665"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>go[he]emo ha[i] maa [jo]meo uke[ŋo]rodoo[de</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a666"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>[ano] koŋa jo[i]zjaana[i]ra[ka [kono] koŋa jo[i]zjaana[i]ra[ka]Qcje mura[no] naa[da]no mura[no]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a667"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>[o]ɴnano ko[do]mo[o] sono jeQ[cja]aite ha[i]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a668"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>hoo[da]. [a]no koŋa jo[i[jo]cjuuni [si]ɴruisjuu zi zja[a] kimaQ[te]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a669"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>koɴ[na] go[he]eŋa kita[ra] ano koto toQtu[ke]nainaanooQ[cje] hana[i]teitoodooQcje.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a670"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>sono koɴ[na] go[he]ewa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a671"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>[hu]juzjuu hooni ito[o]doo[ŋa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a672"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>koɴ[na] ha[i] nukumari[ha]naatoodoo[de]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a673"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>[ja]masi[ŋo]too sinainaa[no]odoo[de] orjaa naa[da]i kai[ru]jo[o]cite [so]o iQta[i]ba</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a674"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>sa[a] kotozja[a] turaku[te]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a675"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>[ha]narerare[no]oQcjuu sa[wa]ŋidooQcje.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a676"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>[so]re[ŋa] so]o[wa] iQcja[a]irarenoo[jo.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a677"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>[o]rjaa naa[da]e kaira[na]ibaQcje go[he]ewa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a678"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>naa[da]e kaeQ[te]ki[to]odooQcje.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a679"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>[so]site ha[i] mu]rasja[a] ha[i] so]no</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a680"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>[ho]ode koto[zi]cjuu musume[to] jo[i] nakacjuu[wa [u]wasaŋa ha[i] naa[da]emo [ki]tee[te]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a681"
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>[ho]ɴ aki[re]do[o. go[he]e[wa] ho]oni [ho]ono koni tora[re]cjaanaano[o]Qcje iQtee[to]odooQ[cje]doo[jo.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a682"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>[sosi]te go[he]eŋa ki[to]odoode [cju]udo koɴda[a] sono naa[dano] musume[o]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a683"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>[a]no koo [jo]meni ukero[jo] wa[rja]aQcje</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a684"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>[si]ɴruizjuu[de] soo iQte iQto[o]dooQcje.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a685"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>sono go[he]emo heɴzinja[a] komaQ[te]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a686"
+                TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>maa [i]ɴmee kaɴŋa[i]tecite jo[i]Q[sa] iQto[o]doo.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a687"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>ko[ɴ]daa iQpo[o] hoono koto[zja]a hore [ko]koe hasiQ[te]ki[too]doo naa[dai.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a688"
+                TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>go[heeɴ.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a689"
+                TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>[koɴ]daa moɴ[do]oQcje</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a690"
+                TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>ma[i]nici naa[dai] jo[ru]i na[re]ba ka]eQcja[a]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a691"
+                TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>ano go[ri]no micjoo.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a692"
+                TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>[ho]ono [mu]keɴno i[masino] sjadoota[a] ciŋoodoo[jo.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a693"
+                TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>[mu]keɴpote[e] iQcja[a] jama[a] koo koo iQcja[a] naa[dae] ku[ru]dooQcje.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a694"
+                TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>sa[a] komaQ[te] naadasju[mo] ko ko[ɴ]jamo ku[ru]ra[ka] ano koŋaQcicja[a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a695"
+                TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>[mi]harjoo sitee[re]ba [ho]ɴkoni ku[ru]dooQcjedoojo.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a696"
+                TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>[ko]koi [ro]osoku[u] koo nihoɴ [o]Qtate[te] koo sibaQ[te] hi[o] tu[ke]cjaa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a697"
+                TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>[ja]maɴ na[ka] sono suŋo[i] gjoosoodaQ[to]oQcjedoojo.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a698"
+                TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>[so]site koɴ[na] go[he]eŋa [ko]maQ[te] ma[ini]ci kuru[doode.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a699"
+                TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>[do]o sirudu[ra]to omoQ[te] hito[ba]ɴ kaɴŋa[i]te</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a700"
+                TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>ko[ɴ]da keQ[si]ɴŋa tu[i]ta cjuude go[he]ewana[a]jo</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a701"
+                TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>are[do]oQcjedoo[jo.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a702"
+                TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE>[ja]ma[i] koo naa[dae] ku[ru] toko[ni [maru]taba[si]ŋa a[ru]dooQ[cje] iQka[sjo.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a703"
+                TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE>[so]koi [no]koŋi[rio] moQ[te] a[ru] baɴ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a704"
+                TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE>ano [no]boQteeQ[te</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a705"
+                TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE>[so]site [koo] saɴ[boɴ [ma]rukiba[si]ŋa koo a[ru] tokono [ko]QciQpi[raa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a706"
+                TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
+                <ANNOTATION_VALUE>[sa]ɴbuɴno ici[du]tu saɴ[bo]ɴo nokoŋiri[de]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a707"
+                TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
+                <ANNOTATION_VALUE>kiQ[ko]ɴdeoito[o]daŋenoo. [saa] hu[me]ba</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a708"
+                TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts128">
+                <ANNOTATION_VALUE>[so]koŋa [hi]Qkuzikeru#{[roo]re}.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a709"
+                TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts130">
+                <ANNOTATION_VALUE>saa [so]reta[a] sirade kotozja[a] sono baɴ[mo] sono [u]resiŋe[ni] ki[to]o.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a710"
+                TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE>koɴ[na] so]koi koo watarikoɴ[da]iba pa[a]Qto o[re]toodoo.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a711"
+                TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts134">
+                <ANNOTATION_VALUE>[ma]Qsa[ka]sai</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a712"
+                TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts136">
+                <ANNOTATION_VALUE>[ha]ja[kaa]no [ga]ke[e]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a713"
+                TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts138">
+                <ANNOTATION_VALUE>u[ci]ocitoodooQcjedoo#{jo} ko[to]zjaa.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a714"
+                TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts140">
+                <ANNOTATION_VALUE>[so]site [so]koo nokoŋiri[de] kiQ[ko]ɴ[de] naa[da]e [ka]iQ[te]ki[te]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a715"
+                TIME_SLOT_REF1="ts141" TIME_SLOT_REF2="ts142">
+                <ANNOTATION_VALUE>go[he]ewa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a716"
+                TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts144">
+                <ANNOTATION_VALUE>[ko]ŋaano[o] jo[so]no {咳} [ta]sjo[no] murata[a] iQsjoni naQcja[a] mazu[i]joono kiso kisoka[a] okasi[ide]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a717"
+                TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts146">
+                <ANNOTATION_VALUE>[ko]reQkara[a] joso[no] moɴda[ra] do[ko]no cino monode[mo] jo[i] nakani nare[ba]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a718"
+                TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts148">
+                <ANNOTATION_VALUE>iQ[sjo]ni musubareru koto[o] urjaa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a719"
+                TIME_SLOT_REF1="ts149" TIME_SLOT_REF2="ts150">
+                <ANNOTATION_VALUE>[ki]boosurucjuu [ju]iŋo[ɴ]o kai[te]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a720"
+                TIME_SLOT_REF1="ts151" TIME_SLOT_REF2="ts152">
+                <ANNOTATION_VALUE>[sosi]te [te]ma[i]wa [na]a[dano]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a721"
+                TIME_SLOT_REF1="ts153" TIME_SLOT_REF2="ts154">
+                <ANNOTATION_VALUE>[mu]kasi aQ[to]odoo [ni]sinohabaQcje.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a722"
+                TIME_SLOT_REF1="ts155" TIME_SLOT_REF2="ts156">
+                <ANNOTATION_VALUE>[ko]o [ko]koira[ŋa] [ko]koŋa [ni]sinohabato sure[ba] kokoe ku[re]ba u[ɴ]to [o]Qka[na]kute</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a723"
+                TIME_SLOT_REF1="ts157" TIME_SLOT_REF2="ts158">
+                <ANNOTATION_VALUE>jo[ku] oja[ŋa] ura[ŋa] nuko[i] ori[mo]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a724"
+                TIME_SLOT_REF1="ts159" TIME_SLOT_REF2="ts160">
+                <ANNOTATION_VALUE>[ni]sinohaba[i] ikuzja[a]na[i]jo u[ci]ocirudeQcicja[a] jaakeɴ.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a725"
+                TIME_SLOT_REF1="ts161" TIME_SLOT_REF2="ts162">
+                <ANNOTATION_VALUE>[so]koe ki[te] maQsa[ka]sae</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a726"
+                TIME_SLOT_REF1="ts163" TIME_SLOT_REF2="ts164">
+                <ANNOTATION_VALUE>[a]no [a]redoQ[cje]doo#{jo} go[he]ewa [to]bikoɴde uQciɴ[do]odoQcjedoo.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a727"
+                TIME_SLOT_REF1="ts165" TIME_SLOT_REF2="ts166">
+                <ANNOTATION_VALUE>[so]ositai[ba] naa[da]de [to]bikoɴ[do]o moɴ[to]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a728"
+                TIME_SLOT_REF1="ts167" TIME_SLOT_REF2="ts168">
+                <ANNOTATION_VALUE>[ho]ono [ga]keno u[e]de tobikoɴ[do]o [ko]to[zi]to</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a729"
+                TIME_SLOT_REF1="ts169" TIME_SLOT_REF2="ts170">
+                <ANNOTATION_VALUE>[o]nazi toko[i] tomaQ[te] hu[ta]ri soroQ[te] koo tomaQto[o]daŋenoo[jo.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a730"
+                TIME_SLOT_REF1="ts171" TIME_SLOT_REF2="ts172">
+                <ANNOTATION_VALUE>daka sorede hore</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a731"
+                TIME_SLOT_REF1="ts173" TIME_SLOT_REF2="ts174">
+                <ANNOTATION_VALUE>[ko]to[zja]a aŋaani [ha]ja[ka]ano toko[dooni.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a732"
+                TIME_SLOT_REF1="ts175" TIME_SLOT_REF2="ts176">
+                <ANNOTATION_VALUE>go[he]ewa kokodo[o]dooŋa [i]Qsjoni tomaQto[o]dooQcje.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a733"
+                TIME_SLOT_REF1="ts177" TIME_SLOT_REF2="ts178">
+                <ANNOTATION_VALUE>[na]ŋa[re]teQte [o]nasi toko#{i}.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a734"
+                TIME_SLOT_REF1="ts179" TIME_SLOT_REF2="ts180">
+                <ANNOTATION_VALUE>to [ho]ɴkoni soreQ[ka]ra go[he]eno kakioki[ŋa]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a735"
+                TIME_SLOT_REF1="ts181" TIME_SLOT_REF2="ts182">
+                <ANNOTATION_VALUE>aQ[to]odoo[de] koɴdaa [mu]rade[mo] kaiŋjo[o] site moɴdoo[jo] joriaio site</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a736"
+                TIME_SLOT_REF1="ts183" TIME_SLOT_REF2="ts184">
+                <ANNOTATION_VALUE>[so]site tasjo[no] moɴde[mo] naɴde[mo [so]reQkara[a] iQsjoni nare[ru]cjuu [ho]oni naQ[to]odooQcjedoo[jo.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a737"
+                TIME_SLOT_REF1="ts185" TIME_SLOT_REF2="ts186">
+                <ANNOTATION_VALUE>[soi]de i[ma]a naada[de]mo doQ too[ku]karamo [jo]meni ki[i] jomeni tasjo[i] iQta[ri] sitee[ru]doo[jo.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a738"
+                TIME_SLOT_REF1="ts187" TIME_SLOT_REF2="ts188">
+                <ANNOTATION_VALUE>[so]rede hiQ[ci]mai.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="dependent" PARENT_REF="発話" TIER_ID="形態素分析">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a739" ANNOTATION_REF="a645">
+                <ANNOTATION_VALUE>mukasi mukasi=naajo kono naada=ni uɴto ude=no jo-i maŋemonosi=ŋa i-too=da=ŋenoo=ni</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a740" ANNOTATION_REF="a646">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a741" ANNOTATION_REF="a647">
+                <ANNOTATION_VALUE>sono maŋemonosi=ŋa uɴto ude=no jo-i maŋemonosi=ŋa i-too=da=ŋenoo=ni</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a742" ANNOTATION_REF="a648">
+                <ANNOTATION_VALUE>soosicjaa nataa hore jakehata=o koko=zjaa si-tee-ru=doode jakihataa si-te kaseŋa-naiba=doo=doode</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a743" ANNOTATION_REF="a649">
+                <ANNOTATION_VALUE>huju=no # uci sono maŋemono=cju-u=wa o-haci=toka seero=toka beɴtoo maŋebeɴtoo=cju-u</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a744" ANNOTATION_REF="a650">
+                <ANNOTATION_VALUE>sono koto=doo=doo=jo</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a745" ANNOTATION_REF="a651">
+                <ANNOTATION_VALUE>sosite huju-zjuu sorjoo maŋemono=o kosjai-te hajakawacjoo=o cjoo=o zuuQto uQ-te ariQ-too=doo=Qcje</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a746" ANNOTATION_REF="a652">
+                <ANNOTATION_VALUE>soosicjaa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a747" ANNOTATION_REF="a653">
+                <ANNOTATION_VALUE>ima=de juu mijakoŋaa hoo soko=ni anoo iQtumo tomar-u jado=ŋa aQ-te</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a748" ANNOTATION_REF="a654">
+                <ANNOTATION_VALUE>sono maŋemonosi=wa gohee=cju-u namae=doo=jo</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a749" ANNOTATION_REF="a655">
+                <ANNOTATION_VALUE>gohee=wa itu=demo # hoo=no sono kimaQ-too jado=i tomaQ-cjaa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a750" ANNOTATION_REF="a656">
+                <ANNOTATION_VALUE>soositeete sono maŋemono=o moQ-cjaa hajakawacjoo=o uQ-te ariQ-too=doo=Qcje</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a751" ANNOTATION_REF="a657">
+                <ANNOTATION_VALUE>sore=ŋa sono hoo=no tomar-u jee=ni uuɴto jo-i musume=ŋa hitori i-too=doo=Qcje</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a752" ANNOTATION_REF="a658">
+                <ANNOTATION_VALUE>sore=ŋa kotozi=Qcjuu namai=doo=dooŋa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a753" ANNOTATION_REF="a659">
+                <ANNOTATION_VALUE>sorjaa kirjoojosi=no jo-i ko=daQ-too=doo=Qcjedoo=jo</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a754" ANNOTATION_REF="a660">
+                <ANNOTATION_VALUE>soositaiba itunomanika gohee=to kotozjaa otoko=to oɴna=no naka=ni uɴ-naQ-te</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a755" ANNOTATION_REF="a661">
+                <ANNOTATION_VALUE>koɴda hanare-rare-noo # gu=ni uɴ-naQ-too=doo=Qcje</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a756" ANNOTATION_REF="a662">
+                <ANNOTATION_VALUE>sore=ŋa naada=no gohee=wa hitorimusuko=doo=doode hore</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a757" ANNOTATION_REF="a663">
+                <ANNOTATION_VALUE>naada=no jee=o tuŋa-nai=naanoo=doode hai</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a758" ANNOTATION_REF="a664">
+                <ANNOTATION_VALUE>siɴruisju=no atubaQ-cjaa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a759" ANNOTATION_REF="a665">
+                <ANNOTATION_VALUE>gohee=mo hai maa jome=o uke-ŋoro=doo=de</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a760" ANNOTATION_REF="a666">
+                <ANNOTATION_VALUE>ano ko=ŋa jo-i=zjaa=na-i=ra=ka kono ko=ŋa jo-i=zjaa=na-i=ra=ka=Qcje mura=no naada=no mura=no</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a761" ANNOTATION_REF="a667">
+                <ANNOTATION_VALUE>oɴna=no ko-domo=o sono jeQ-cjaa=i-te hai</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a762" ANNOTATION_REF="a668">
+                <ANNOTATION_VALUE>hoo=da ano ko=ŋa jo-i=jo=cju-u=ni siɴruisjuu # zjaa kimaQ-te</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a763" ANNOTATION_REF="a669">
+                <ANNOTATION_VALUE>koɴna gohee=ŋa ki-tara ano ko=to toQtuke-nai=naanoo=Qcje hanai-te=i-too=doo=Qcje</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a764" ANNOTATION_REF="a670">
+                <ANNOTATION_VALUE>sono koɴna gohee=wa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a765" ANNOTATION_REF="a671">
+                <ANNOTATION_VALUE>huju-zjuu hoo=ni i-too=dooŋa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a766" ANNOTATION_REF="a672">
+                <ANNOTATION_VALUE>koɴna hai nukumari-hanaa-too=doode</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a767" ANNOTATION_REF="a673">
+                <ANNOTATION_VALUE>jamasiŋoto=o si-nai=naanoo=doode orjaa naada=i kai-ru=joo=cite soo iQ-taiba</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a768" ANNOTATION_REF="a674">
+                <ANNOTATION_VALUE>saa kotozjaa tura-ku-te</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a769" ANNOTATION_REF="a675">
+                <ANNOTATION_VALUE>hanare-rare-noo=Qcjuu sawaŋi=doo=Qcje</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a770" ANNOTATION_REF="a676">
+                <ANNOTATION_VALUE>sore=ŋa soo=wa iQ-cjaa=i-rare-noo=jo</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a771" ANNOTATION_REF="a677">
+                <ANNOTATION_VALUE>orjaa naada=e kaira-naiba=Qcje gohee=wa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a772" ANNOTATION_REF="a678">
+                <ANNOTATION_VALUE>naada=e kae-Qte=ki-too=doo=Qcje</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a773" ANNOTATION_REF="a679">
+                <ANNOTATION_VALUE>sosite hai murasjaa hai sono</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a774" ANNOTATION_REF="a680">
+                <ANNOTATION_VALUE>hoo=de kotozi=cju-u musume=to jo-i naka=cju-u=wa uwasa=ŋa hai naada=e=mo ki-tee-te</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a775" ANNOTATION_REF="a681">
+                <ANNOTATION_VALUE>hoɴ akire=doo gohee=wa hoo=ni hoo=no ko=ni tor-are-cjaa=naanoo=Qcje iQ-tee-too=doo=Qcjedoo=jo</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a776" ANNOTATION_REF="a682">
+                <ANNOTATION_VALUE>sosite gohee=ŋa ki-too=doode cjuudo koɴdaa sono naada=no musume=o</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a777" ANNOTATION_REF="a683">
+                <ANNOTATION_VALUE>ano ko=o jome=ni uke-ro=jo warjaa=Qcje</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a778" ANNOTATION_REF="a684">
+                <ANNOTATION_VALUE>siɴrui-zjuu=de soo iQ-te iQ-too=doo=Qcje</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a779" ANNOTATION_REF="a685">
+                <ANNOTATION_VALUE>sono gohee=mo heɴzinjaa komaQ-te</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a780" ANNOTATION_REF="a686">
+                <ANNOTATION_VALUE>maa iɴmee kaɴŋai-te=cite joiQsa iQ-too=doo</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a781" ANNOTATION_REF="a687">
+                <ANNOTATION_VALUE>koɴdaa iQpoo hoo=no kotozjaa hore koko=e hasiQ-te=ki-too=doo naada=i</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a782" ANNOTATION_REF="a688">
+                <ANNOTATION_VALUE>gohee=ɴ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a783" ANNOTATION_REF="a689">
+                <ANNOTATION_VALUE>koɴdaa moɴdoo=Qcje</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a784" ANNOTATION_REF="a690">
+                <ANNOTATION_VALUE>mainici naada=i joru=i nar-eba kaeQ-cjaa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a785" ANNOTATION_REF="a691">
+                <ANNOTATION_VALUE>ano go-ri=no micjoo</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a786" ANNOTATION_REF="a692">
+                <ANNOTATION_VALUE>hoo=no mukeɴ=no imasi=no sjadoo=taa ciŋoo=doo=jo</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a787" ANNOTATION_REF="a693">
+                <ANNOTATION_VALUE>mukeɴpote=e iQ-cjaa jamaa koo koo iQ-cjaa naada=e ku-ru=doo=Qcje</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a788" ANNOTATION_REF="a694">
+                <ANNOTATION_VALUE>saa komaQ-te naada-sju=mo # koɴja=mo ku-ru=ra=ka ano ko=ŋa=Qci-cjaa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a789" ANNOTATION_REF="a695">
+                <ANNOTATION_VALUE>miharjoo si-tee-reba hoɴko=ni ku-ru=doo=Qcjedoo=jo</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a790" ANNOTATION_REF="a696">
+                <ANNOTATION_VALUE>koko=i roosokuu koo ni-hoɴ oQtate-te koo sibaQ-te hi=o tuke-cjaa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a791" ANNOTATION_REF="a697">
+                <ANNOTATION_VALUE>jama=ɴ naka sono suŋo-i gjoosoo=daQ-too=Qcjedoo=jo</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a792" ANNOTATION_REF="a698">
+                <ANNOTATION_VALUE>sosite koɴna gohee=ŋa komaQ-te mainici ku-ru=doode</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a793" ANNOTATION_REF="a699">
+                <ANNOTATION_VALUE>doo si-ru=dura=to omoQ-te hitobaɴ kaɴŋai-te</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a794" ANNOTATION_REF="a700">
+                <ANNOTATION_VALUE>koɴda keQsiɴ=ŋa tui-ta cju-u=de gohee=wa=naajo</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a795" ANNOTATION_REF="a701">
+                <ANNOTATION_VALUE>are=doo=Qcjedoo=jo</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a796" ANNOTATION_REF="a702">
+                <ANNOTATION_VALUE>jama=i koo naada=e ku-ru toko=ni marutabasi=ŋa ar-u=doo=Qcje iQ-kasjo</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a797" ANNOTATION_REF="a703">
+                <ANNOTATION_VALUE>soko=i nokoŋiri=o moQ-te aru baɴ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a798" ANNOTATION_REF="a704">
+                <ANNOTATION_VALUE>ano noboQ-teeQ-te</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a799" ANNOTATION_REF="a705">
+                <ANNOTATION_VALUE>sosite koo saɴ-boɴ marukibasi=ŋa koo ar-u toko=no koQciQpiraa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a800" ANNOTATION_REF="a706">
+                <ANNOTATION_VALUE>saɴ-buɴ=no ici=dutu saɴ-boɴ=o nokoŋiri=de</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a801" ANNOTATION_REF="a707">
+                <ANNOTATION_VALUE>kiQkoɴ-de=oi-too=da=ŋenoo saa hum-eba</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a802" ANNOTATION_REF="a708">
+                <ANNOTATION_VALUE>soko=ŋa hiQ-kuzike-ru=roore</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a803" ANNOTATION_REF="a709">
+                <ANNOTATION_VALUE>saa sore=taa sira-de kotozjaa sono baɴ=mo sono uresi-ŋe=ni ki-too</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a804" ANNOTATION_REF="a710">
+                <ANNOTATION_VALUE>koɴna soko=i koo watarikoɴ-daiba paaQto ore-too=doo</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a805" ANNOTATION_REF="a711">
+                <ANNOTATION_VALUE>maQsakasa=i</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a806" ANNOTATION_REF="a712">
+                <ANNOTATION_VALUE>hajakaa=no gake=e</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a807" ANNOTATION_REF="a713">
+                <ANNOTATION_VALUE>uci-oci-too=doo=Qcjedoo=jo kotozjaa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a808" ANNOTATION_REF="a714">
+                <ANNOTATION_VALUE>sosite soko=o nokoŋiri=de kiQkoɴ-de naada=e kaiQ-te=ki-te</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a809" ANNOTATION_REF="a715">
+                <ANNOTATION_VALUE>gohee=wa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a810" ANNOTATION_REF="a716">
+                <ANNOTATION_VALUE>koŋaa=noo joso=no # tasjo=no mura=taa iQsjo=ni naQ-cjaa mazu-i=joo=no # kisokaa okasi-i=de</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a811" ANNOTATION_REF="a717">
+                <ANNOTATION_VALUE>kore=Qkaraa joso=no moɴ=dara doko=no ci=no mono=demo jo-i naka=ni nar-eba</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a812" ANNOTATION_REF="a718">
+                <ANNOTATION_VALUE>iQsjo=ni musub-are-ru koto=o urjaa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a813" ANNOTATION_REF="a719">
+                <ANNOTATION_VALUE>kiboo-su-ru=cjuu juiŋoɴ=o kai-te</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a814" ANNOTATION_REF="a720">
+                <ANNOTATION_VALUE>sosite temai=wa naada=no</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a815" ANNOTATION_REF="a721">
+                <ANNOTATION_VALUE>mukasi aQ-too=doo nisinohaba=Qcje</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a816" ANNOTATION_REF="a722">
+                <ANNOTATION_VALUE>koo kokoira=ŋa koko=ŋa nisinohaba=to su-reba koko=e ku-reba uɴto oQkana-ku-te</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a817" ANNOTATION_REF="a723">
+                <ANNOTATION_VALUE>joku oja=ŋa ura=ŋa nuko-i ori=mo</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a818" ANNOTATION_REF="a724">
+                <ANNOTATION_VALUE>nisinohaba=i ik-u=zjaa=na-i=jo uci-oci-ru=de=Qcicjaa jaa-ke=ɴ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a819" ANNOTATION_REF="a725">
+                <ANNOTATION_VALUE>soko=e ki-te maQsakasa=e</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a820" ANNOTATION_REF="a726">
+                <ANNOTATION_VALUE>ano are=do=Qcjedoo=jo gohee=wa tobikoɴ-de uQ-ciɴ-doo=do=Qcjedoo</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a821" ANNOTATION_REF="a727">
+                <ANNOTATION_VALUE>soositaiba naada=de tobikoɴ-doo moɴ=to</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a822" ANNOTATION_REF="a728">
+                <ANNOTATION_VALUE>hoo=no gake=no ue=de tobikoɴ-doo kotozi=to</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a823" ANNOTATION_REF="a729">
+                <ANNOTATION_VALUE>onazi toko=i tomaQ-te hutari soroQ-te koo tomaQ-too=da=ŋenoo=jo</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a824" ANNOTATION_REF="a730">
+                <ANNOTATION_VALUE># sorede hore</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a825" ANNOTATION_REF="a731">
+                <ANNOTATION_VALUE>kotozjaa aŋaa=ni hajakaa=no toko=doo=ni</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a826" ANNOTATION_REF="a732">
+                <ANNOTATION_VALUE>gohee=wa koko=doo=dooŋa iQsjo=ni tomaQ-too=doo=Qcje</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a827" ANNOTATION_REF="a733">
+                <ANNOTATION_VALUE>naŋare-teQ-te onasi toko=i</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a828" ANNOTATION_REF="a734">
+                <ANNOTATION_VALUE>to hoɴko=ni sore=Qkara gohee=no kakioki=ŋa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a829" ANNOTATION_REF="a735">
+                <ANNOTATION_VALUE>aQ-too=doode koɴdaa mura=demo kaiŋjoo si-te moɴdoo=jo joriai=o si-te</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a830" ANNOTATION_REF="a736">
+                <ANNOTATION_VALUE>sosite tasjo=no moɴ=demo naɴ=demo sore=Qkaraa iQsjo=ni nar-e-ru=cju-u hoo=ni naQ-too=doo=Qcjedoo=jo</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a831" ANNOTATION_REF="a737">
+                <ANNOTATION_VALUE>soide imaa naada=demo # too-ku=kara=mo jome=ni kii jome=ni tasjo=i iQ-tari si-tee-ru=doo=jo</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a832" ANNOTATION_REF="a738">
+                <ANNOTATION_VALUE>sorede hiQcimai</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="dependent" PARENT_REF="発話" TIER_ID="グロス">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a927" ANNOTATION_REF="a645">
+                <ANNOTATION_VALUE>昔 昔=IJP この 奈良田=DAT うんと 腕=GEN 良い-NPST 曲げ物師=NOM 居る-PST=COP.NPST=HS=SFP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a928" ANNOTATION_REF="a646">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a929" ANNOTATION_REF="a647">
+                <ANNOTATION_VALUE>その 曲げ物師=NOM うんと 腕=GEN 良い-NPST 曲げ物師=NOM 居る-PST=COP.NPST=HS=SFP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a930" ANNOTATION_REF="a648">
+                <ANNOTATION_VALUE>そして 夏.TOP ATTN 焼畑=ACC ここ=INS.TOP する-CONT-NPST=CSL 焼畑.ACC する-SEQ 稼ぐ-NEG.HYP=COP.NPST=CSL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a931" ANNOTATION_REF="a649">
+                <ANNOTATION_VALUE>冬=GEN # 内 FIL 曲げ物=QT.言う-NPST=TOP POL-鉢=MUL 蒸篭=MUL 弁当 曲げ弁当=QT.言う-NPST</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a932" ANNOTATION_REF="a650">
+                <ANNOTATION_VALUE>その 事=COP.NPST=COP.NPST=SFP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a933" ANNOTATION_REF="a651">
+                <ANNOTATION_VALUE>そして 冬-中 それ.ACC 曲げ物=ACC 作る-SEQ 早川町=ACC 町=ACC ずっと 売る-SEQ 歩く-PST=COP.NPST=HS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a934" ANNOTATION_REF="a652">
+                <ANNOTATION_VALUE>そして</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a935" ANNOTATION_REF="a653">
+                <ANNOTATION_VALUE>今=INS 言う.NPST 都川 保 そこ=DAT FIL いつも 泊る-NPST 宿=NOM 在る-SEQ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a936" ANNOTATION_REF="a654">
+                <ANNOTATION_VALUE>その 曲げ物師=TOP 吾平=QT.言う-NPST 名前=COP.NPST=SFP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a937" ANNOTATION_REF="a655">
+                <ANNOTATION_VALUE>吾平=TOP いつ=EXPL # 保=GEN その 決まる-PST 宿=ALL 泊る-SEQ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a938" ANNOTATION_REF="a656">
+                <ANNOTATION_VALUE>そして その 曲げ物=ACC 持つ-SEQ 早川町=ACC 売る-SEQ 歩く-PST=COP.NPST=HS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a939" ANNOTATION_REF="a657">
+                <ANNOTATION_VALUE>それ=NOM FIL 保=GEN 泊る-NPST 家=DAT うんと 良い-NPST 娘=NOM 一人 居る-PST=COP.NPST=HS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a940" ANNOTATION_REF="a658">
+                <ANNOTATION_VALUE>それ=NOM 琴路=QT.言う 名前=COP.NPST=ADVS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a941" ANNOTATION_REF="a659">
+                <ANNOTATION_VALUE>それ.TOP 器量良し=GEN 良い-NPST 子=COP-PST=COP.NPST=HS=SFP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a942" ANNOTATION_REF="a660">
+                <ANNOTATION_VALUE>すると いつの間にか 吾平=COM 琴路.TOP 男=COM 女=GEN 仲=DAT EMPH-成る-SEQ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a943" ANNOTATION_REF="a661">
+                <ANNOTATION_VALUE>今度.TOP 離れる-PASS-NEG.NPST # 具=DAT EMPH-成る-PST=COP.NPST=HS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a944" ANNOTATION_REF="a662">
+                <ANNOTATION_VALUE>それ=NOM 奈良田=GEN 吾平=TOP 一人息子=COP.NPST=CSL ATTN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a945" ANNOTATION_REF="a663">
+                <ANNOTATION_VALUE>奈良田=GEN 家=ACC 継ぐ-NEG.HYP=OBL=CSL もう</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a946" ANNOTATION_REF="a664">
+                <ANNOTATION_VALUE>親戚=GEN 集まる-SEQ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a947" ANNOTATION_REF="a665">
+                <ANNOTATION_VALUE>吾平=ADD もう HDG 嫁=ACC 貰う-頃=COP.NPST=CSL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a948" ANNOTATION_REF="a666">
+                <ANNOTATION_VALUE>あの 子=NOM 良い-NPST=COP.HYP=NEG-NPST=INFR=QP この 子=NOM 良い-NPST=COP.HYP=NEG-NPST=INFR=QP=QT 村=GEN 奈良田=GEN 村=GEN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a949" ANNOTATION_REF="a667">
+                <ANNOTATION_VALUE>女=GEN 子-PL=ACC FIL 選る-SEQ=CONT-SEQ もう</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a950" ANNOTATION_REF="a668">
+                <ANNOTATION_VALUE>そう=COP.NPST あの 子=NOM 良い-NPST=SFP=QT.言う-NPST=DAT 親戚 # INS.TOP 決まる-SEQ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a951" ANNOTATION_REF="a669">
+                <ANNOTATION_VALUE>今度.TOP 吾平=NOM 来る-HYP あの 子=COM くっ付ける-NEG.HYP=OBL=QT 話す-SEQ=CONT-PST=COP.NPST=HS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a952" ANNOTATION_REF="a670">
+                <ANNOTATION_VALUE>FIL 今度.TOP 吾平=TOP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a953" ANNOTATION_REF="a671">
+                <ANNOTATION_VALUE>冬-中 保=DAT 居る-PST=ADVS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a954" ANNOTATION_REF="a672">
+                <ANNOTATION_VALUE>今度.TOP もう 温まる-INC-PST=CSL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a955" ANNOTATION_REF="a673">
+                <ANNOTATION_VALUE>山仕事=ACC する-NEG.HYP=OBL=CSL 1SG.TOP 奈良田=CONT 帰る-NPST=SFP=QT そう 言う-CNS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a956" ANNOTATION_REF="a674">
+                <ANNOTATION_VALUE>ATTN 琴路.TOP つらい-ADVL-SEQ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a957" ANNOTATION_REF="a675">
+                <ANNOTATION_VALUE>離れる-POT-NEG.NPST=QT.ADN 騒ぎ=COP.NPST=HS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a958" ANNOTATION_REF="a676">
+                <ANNOTATION_VALUE>それ=NOM そう=TOP 言う-DEQ=CONT-POT-NEG.NPST=SFP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a959" ANNOTATION_REF="a677">
+                <ANNOTATION_VALUE>1SG.TOP 奈良田=ALL 帰る-NEG.HYP=QT 吾平=TOP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a960" ANNOTATION_REF="a678">
+                <ANNOTATION_VALUE>奈良田=ALL 帰る-SEQ=VEN-PST=COP.NPST=HS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a961" ANNOTATION_REF="a679">
+                <ANNOTATION_VALUE>そして もう 村衆.TOP もう FIL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a962" ANNOTATION_REF="a680">
+                <ANNOTATION_VALUE>保=INS 琴=QT.言う-NPST 娘=COM 良い-NPST 仲=QT.言う-NPST=TOP 噂=NOM もう 奈良田=ALL=ADD 来る-CONT-SEQ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a963" ANNOTATION_REF="a681">
+                <ANNOTATION_VALUE>本当に 呆れる=COP.NPST 吾平=TOP 保=DAT 保=GEN 子=DAT 取る-PASS-HYP=OBL=QT 言う-CONT-PST=COP.NPST=HS=SFP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a964" ANNOTATION_REF="a682">
+                <ANNOTATION_VALUE>そして 吾平=NOM 来る-PST=CSL すぐ 今度.TOP その 奈良田=GEN 娘=ACC</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a965" ANNOTATION_REF="a683">
+                <ANNOTATION_VALUE>あの 子=ACC 嫁=DAT 貰う-IMP=SFP 2SG.TOP=QT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a966" ANNOTATION_REF="a684">
+                <ANNOTATION_VALUE>親戚-中=INS そう 言う-SEQ 言う-PST=COP.NPST=HS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a967" ANNOTATION_REF="a685">
+                <ANNOTATION_VALUE>FIL 吾平=ADD 返事.DAT.TOP 困る-SEQ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a968" ANNOTATION_REF="a686">
+                <ANNOTATION_VALUE>HDG 少し 考える-SEQ=QT やっと 言う-PST=COP.NPST</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a969" ANNOTATION_REF="a687">
+                <ANNOTATION_VALUE>今度.TOP 一方 保=GEN 琴路.TOP ATTN ここ=ALL 走る-CONT=VEN-PST=COP.NPST 奈良田=ALL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a970" ANNOTATION_REF="a688">
+                <ANNOTATION_VALUE>吾平=DAT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a971" ANNOTATION_REF="a689">
+                <ANNOTATION_VALUE>今度.TOP FIL=HS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a972" ANNOTATION_REF="a690">
+                <ANNOTATION_VALUE>毎日 奈良田=ALL 夜=ALL 成る-HYP 帰る-SEQ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a973" ANNOTATION_REF="a691">
+                <ANNOTATION_VALUE>FIL 五-CLF=GEN 道.ACC</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a974" ANNOTATION_REF="a692">
+                <ANNOTATION_VALUE>保=GEN 向い=GEN 今=GEN 車道=COM.TOP 違う.NPST=COP.NPST=SFP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a975" ANNOTATION_REF="a693">
+                <ANNOTATION_VALUE>向こう側=ALL 行く-SEQ 山.ACC こう こう 行く-SEQ 奈良田=ALL 来る-NPST=COP.NPST=HS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a976" ANNOTATION_REF="a694">
+                <ANNOTATION_VALUE>ATTN 困る-SEQ 奈良田-人.PL=ADD # 今夜=ADD 来る-NPST=INFR=QP あの 子=NOM=QT.言う-SEQ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a977" ANNOTATION_REF="a695">
+                <ANNOTATION_VALUE>見張り.ACC する-CONT-HYP 本当=COP.ADVL 来る-NPST=COP.NPST=HS=SFP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a978" ANNOTATION_REF="a696">
+                <ANNOTATION_VALUE>ここ=ALL 蝋燭.ACC こう 二-CLF 立てる-SEQ こう 縛る-SEQ 火=ACC 付ける-SEQ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a979" ANNOTATION_REF="a697">
+                <ANNOTATION_VALUE>山=GEN 中 FIL 凄い-NPST 形相=COP-PST=HS=SFP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a980" ANNOTATION_REF="a698">
+                <ANNOTATION_VALUE>そして 今度.TOP 吾平=NOM 困る-SEQ 毎日 来る-NPST=CSL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a981" ANNOTATION_REF="a699">
+                <ANNOTATION_VALUE>どう する-NPST=COP.INFR=QT 思う-SEQ 一晩 考える-SEQ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a982" ANNOTATION_REF="a700">
+                <ANNOTATION_VALUE>今度.TOP 決心=NOM 付く-PST QT.言う-NPST=COP.SEQ 吾平=TOP=IJP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a983" ANNOTATION_REF="a701">
+                <ANNOTATION_VALUE>あれ=COP.NPST=HS=SFP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a984" ANNOTATION_REF="a702">
+                <ANNOTATION_VALUE>山=ALL こう 奈良田=ALL 来る-NPST 所=DAT 丸太橋=NOM 在る-NPST=COP.NPST=HS 一-CLF</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a985" ANNOTATION_REF="a703">
+                <ANNOTATION_VALUE>そこ=ALL 鋸=ACC 持つ-SEQ ある 晩</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a986" ANNOTATION_REF="a704">
+                <ANNOTATION_VALUE>FIL 登る-SEQ.AND-SEQ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a987" ANNOTATION_REF="a705">
+                <ANNOTATION_VALUE>そして こう 三-CLF 丸木橋=NOM こう 在る-NPST 所=GEN こっち側.ACC</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a988" ANNOTATION_REF="a706">
+                <ANNOTATION_VALUE>三-CLF=GEN 一=DIST 三-CLF=ACC 鋸=INS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a989" ANNOTATION_REF="a707">
+                <ANNOTATION_VALUE>切り込む-SEQ=PREP-PST=COP.NPST=HS ATTN 踏む-HYP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a990" ANNOTATION_REF="a708">
+                <ANNOTATION_VALUE>そこ=NOM EMPH-折れる-NPST=CSL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a991" ANNOTATION_REF="a709">
+                <ANNOTATION_VALUE>ATTN それ=QT.TOP 知る-NEG.SEQ 琴路.TOP その 晩=ADD FIL 嬉しい-APPE=COP.ADVL 来る-PST</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a992" ANNOTATION_REF="a710">
+                <ANNOTATION_VALUE>今度.TOP そこ=ALL こう 渡り込む-CNS ぱっと 折れる-PST=COP.NPST</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a993" ANNOTATION_REF="a711">
+                <ANNOTATION_VALUE>真逆さ=ALL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a994" ANNOTATION_REF="a712">
+                <ANNOTATION_VALUE>早川=GEN 崖=ALL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a995" ANNOTATION_REF="a713">
+                <ANNOTATION_VALUE>EMPH-落ちる-PST=COP.NPST=HS=SFP 琴路.TOP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a996" ANNOTATION_REF="a714">
+                <ANNOTATION_VALUE>そして そこ=ACC 鋸=INS 切り込む-SEQ 奈良田=ALL 帰る-SEQ=VEN-SEQ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a997" ANNOTATION_REF="a715">
+                <ANNOTATION_VALUE>吾平=TOP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a998" ANNOTATION_REF="a716">
+                <ANNOTATION_VALUE>このよう=GEN 他所=GEN # 他所=GEN 村=COM.TOP 一緒=COP.ADVL 成る-HYP まずい-NPST=APPE=GEN # 規則.TOP 変-NPST=CSL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a999" ANNOTATION_REF="a717">
+                <ANNOTATION_VALUE>これ=ABL.TOP 他所=GEN 者=COP.HYP どこ=GEN 地=GEN 者=EXPL 良い-NPST 仲=DAT 成る-HYP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1000" ANNOTATION_REF="a718">
+                <ANNOTATION_VALUE>一緒=COP.ADVL 結ぶ-PASS-NPST 事=ACC 1PL;1SG.TOP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1001" ANNOTATION_REF="a719">
+                <ANNOTATION_VALUE>希望-VBL-NPST=QT.言う 遺言=ACC 書く-SEQ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1002" ANNOTATION_REF="a720">
+                <ANNOTATION_VALUE>そして REFL=TOP 奈良田=GEN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1003" ANNOTATION_REF="a721">
+                <ANNOTATION_VALUE>昔 在る-PST=COP.NPST 西のはば=QT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1004" ANNOTATION_REF="a722">
+                <ANNOTATION_VALUE>こう この辺=NOM ここ=NOM 西のはば=QT する-HYP ここ=ALL 来る-HYP うんと 怖い;恐ろしい-ADVL-SEQ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1005" ANNOTATION_REF="a723">
+                <ANNOTATION_VALUE>よく 親=NOM 1SG=NOM 小さい-NPST 時=ADD</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1006" ANNOTATION_REF="a724">
+                <ANNOTATION_VALUE>西のはば=ALL 行く-NPST=COP.HYP=NEG-NPST=SFP EMPH-落ちる-NPST=CSL=QT 言う-PST=SFP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1007" ANNOTATION_REF="a725">
+                <ANNOTATION_VALUE>そこ=ALL 来る-SEQ 真逆さ=ALL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1008" ANNOTATION_REF="a726">
+                <ANNOTATION_VALUE>FIL あれ=COP.NPST=HS=SFP 吾平=TOP 飛び込む-SEQ EMPH-死ぬ-PST=COP.NPST=HS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1009" ANNOTATION_REF="a727">
+                <ANNOTATION_VALUE>すると 奈良田=INS 飛び込む-PST 者=COM</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1010" ANNOTATION_REF="a728">
+                <ANNOTATION_VALUE>保=GEN 崖=GEN 上=INS 飛び込む-PST 琴路=COM</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1011" ANNOTATION_REF="a729">
+                <ANNOTATION_VALUE>同じ 所=ALL 止まる-SEQ 二人 揃う-SEQ こう 止まる-PST=COP.NPST=HS=SFP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1012" ANNOTATION_REF="a730">
+                <ANNOTATION_VALUE># それで ATTN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1013" ANNOTATION_REF="a731">
+                <ANNOTATION_VALUE>琴路.TOP あのよう=COP.ADVL 早川=GEN 所=COP.NPST=SFP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1014" ANNOTATION_REF="a732">
+                <ANNOTATION_VALUE>吾平=TOP ここ=COP.NPST=ADVS 一緒=COP.ADVL 止まる;泊る-PST=COP.NPST=HS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1015" ANNOTATION_REF="a733">
+                <ANNOTATION_VALUE>流れる-SEQ.AND-SEQ 同じ 所=ALL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1016" ANNOTATION_REF="a734">
+                <ANNOTATION_VALUE>すると 本当=COP.ADVL それ=ABL 吾平=GEN 書き置き=NOM</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1017" ANNOTATION_REF="a735">
+                <ANNOTATION_VALUE>在る-PST=CSL 今度.TOP 村=EXPL 会議.ACC する-SEQ FIL=SFP 会議=ACC する-SEQ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1018" ANNOTATION_REF="a736">
+                <ANNOTATION_VALUE>そして 他所=GEN 者=EXPL 何=EXPL それ=ABL 一緒=DAT 成る-POT-NPST=QT.言う-NPST 法=DAT 成る-PST=COP.NPST=HS=SFP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1019" ANNOTATION_REF="a737">
+                <ANNOTATION_VALUE>それで 今.TOP 奈良田=EXPL # 遠い-ADVL=ABL=ADD 嫁=DAT 来る.SEQ 嫁=DAT 他所=ALL 行く-MUL する-CONT-NPST=COP.NPST=SFP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1020" ANNOTATION_REF="a738">
+                <ANNOTATION_VALUE>それで お終い</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="dependent" PARENT_REF="発話" TIER_ID="共通語訳">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1021" ANNOTATION_REF="a645">
+                <ANNOTATION_VALUE>昔　昔ね　この　奈良田に　うんと　腕の　良い　曲げ物師が　いたのだそうだよ。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1022" ANNOTATION_REF="a646">
+                <ANNOTATION_VALUE>このように　言えばね、そこに　合いの手が　いればね、「マー」って　言う。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1023" ANNOTATION_REF="a647">
+                <ANNOTATION_VALUE>その　曲げ物師が　うんと　腕の　良い　曲げ物師が　いたのだそうだよ。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1024" ANNOTATION_REF="a648">
+                <ANNOTATION_VALUE>そして　夏は　ほら　焼畑を　ここでは　しているので、焼畑を　して　稼がなければならないので、</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1025" ANNOTATION_REF="a649">
+                <ANNOTATION_VALUE>冬の　（アイ）　内　その　曲げ物というのは　お鉢とか　蒸篭とか　弁当　曲げ弁当という</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1026" ANNOTATION_REF="a650">
+                <ANNOTATION_VALUE>その　ことなんだよ。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1027" ANNOTATION_REF="a651">
+                <ANNOTATION_VALUE>そして　冬中　それを　曲げ物を　拵えて　早川町を　町を　ずっと　売って　歩いたのだって。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1028" ANNOTATION_REF="a652">
+                <ANNOTATION_VALUE>そして</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1029" ANNOTATION_REF="a653">
+                <ANNOTATION_VALUE>今で　言う　都川。保。そこに　あの　いつも　泊まる　宿が　あって</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1030" ANNOTATION_REF="a654">
+                <ANNOTATION_VALUE>その　曲げ物師は　吾平という　名前だよ。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1031" ANNOTATION_REF="a655">
+                <ANNOTATION_VALUE>吾平は　いつも　（ミ）　保の　その　決まった　宿に　泊まって</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1032" ANNOTATION_REF="a656">
+                <ANNOTATION_VALUE>そして　その　曲物を　持って　早川町を　売って　歩いたのだって。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1033" ANNOTATION_REF="a657">
+                <ANNOTATION_VALUE>それが　その　保の　泊まる　家に　とても　良い　娘が　一人　いたのだって。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1034" ANNOTATION_REF="a658">
+                <ANNOTATION_VALUE>それが　琴路という　名前なのだが</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1035" ANNOTATION_REF="a659">
+                <ANNOTATION_VALUE>それは　器量良しの　良い　娘だったのだそうだよ。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1036" ANNOTATION_REF="a660">
+                <ANNOTATION_VALUE>そうすると　いつの間にか　吾平と　琴路は　男と　女の　仲に　なって</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1037" ANNOTATION_REF="a661">
+                <ANNOTATION_VALUE>今度は　離れられない　（ゴ）　具合に　なったのだそうだ。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1038" ANNOTATION_REF="a662">
+                <ANNOTATION_VALUE>それが　奈良田の　吾平は　一人息子なので　ほら</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1039" ANNOTATION_REF="a663">
+                <ANNOTATION_VALUE>奈良田の　家を　継がなければならないので　もう</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1040" ANNOTATION_REF="a664">
+                <ANNOTATION_VALUE>親類衆が　集まって</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1041" ANNOTATION_REF="a665">
+                <ANNOTATION_VALUE>「吾平も　もう　まあ　嫁を　もらう頃だから</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1042" ANNOTATION_REF="a666">
+                <ANNOTATION_VALUE>あの　娘が　良いんじゃないだろうか　この　娘が　良いんじゃないだろうか」と　村の　奈良田の　村の</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1043" ANNOTATION_REF="a667">
+                <ANNOTATION_VALUE>女の　子たちを　その　選っていて　もう</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1044" ANNOTATION_REF="a668">
+                <ANNOTATION_VALUE>「そうだ。あの　娘が　良いよ」ということに　親類衆（ジ）　では　決まって</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1045" ANNOTATION_REF="a669">
+                <ANNOTATION_VALUE>「今度　吾平が　来たら　あの　娘と　くっつけなければならない」って　話して　いたのだそうだ。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1046" ANNOTATION_REF="a670">
+                <ANNOTATION_VALUE>その　今度は　吾平は</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1047" ANNOTATION_REF="a671">
+                <ANNOTATION_VALUE>冬中　保に　いたのだが</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1048" ANNOTATION_REF="a672">
+                <ANNOTATION_VALUE>「今度は　もう　暖かくなりはじめたので</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1049" ANNOTATION_REF="a673">
+                <ANNOTATION_VALUE>山仕事を　しなければならないので　私は　奈良田に　帰るよ」と　そう　言ったら</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1050" ANNOTATION_REF="a674">
+                <ANNOTATION_VALUE>さあ　琴路は　つらくて</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1051" ANNOTATION_REF="a675">
+                <ANNOTATION_VALUE>離れられないという騒ぎだって。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1052" ANNOTATION_REF="a676">
+                <ANNOTATION_VALUE>「それが　そうは　言っていられないよ。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1053" ANNOTATION_REF="a677">
+                <ANNOTATION_VALUE>私は　奈良田に　帰らなければ」って　吾平は</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1054" ANNOTATION_REF="a678">
+                <ANNOTATION_VALUE>奈良田に　帰って　来たのだって。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1055" ANNOTATION_REF="a679">
+                <ANNOTATION_VALUE>そして　もう　村の人達は　もう　その</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1056" ANNOTATION_REF="a680">
+                <ANNOTATION_VALUE>保で　琴路という　娘と　良い　仲というのは　噂が　もう　奈良田にも　来ていて</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1057" ANNOTATION_REF="a681">
+                <ANNOTATION_VALUE>「本当に　呆れることだ。吾平は　保に　保の　娘に　とられてはならない」と　言っていたのだそうだよ。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1058" ANNOTATION_REF="a682">
+                <ANNOTATION_VALUE>そして　吾平が　来たので　すぐに　今度は　その　奈良田の　娘を</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1059" ANNOTATION_REF="a683">
+                <ANNOTATION_VALUE>「あの　娘を　嫁に　もらえよ　お前は」と</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1060" ANNOTATION_REF="a684">
+                <ANNOTATION_VALUE>親類中で　そう　言って　言ったのだそうだ。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1061" ANNOTATION_REF="a685">
+                <ANNOTATION_VALUE>その　吾平も　返事に　困って</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1062" ANNOTATION_REF="a686">
+                <ANNOTATION_VALUE>「まあ　少し　考えて」と　やっと　言ったのだ。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1063" ANNOTATION_REF="a687">
+                <ANNOTATION_VALUE>今度は　一方　保の　琴路は　ほら　ここへ　走って来たのだ　奈良田に。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1064" ANNOTATION_REF="a688">
+                <ANNOTATION_VALUE>吾平に。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1065" ANNOTATION_REF="a689">
+                <ANNOTATION_VALUE>今度は　あれだそうだ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1066" ANNOTATION_REF="a690">
+                <ANNOTATION_VALUE>毎日　奈良田に　夜に　なれば　帰って</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1067" ANNOTATION_REF="a691">
+                <ANNOTATION_VALUE>あの　五里の　道を。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1068" ANNOTATION_REF="a692">
+                <ANNOTATION_VALUE>保の　向いの　今の　車道とは　違うんだよ。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1069" ANNOTATION_REF="a693">
+                <ANNOTATION_VALUE>向こう側へ　行って　山を　こう　こう　行って　奈良田に　来るのだそうだ。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1070" ANNOTATION_REF="a694">
+                <ANNOTATION_VALUE>さあ　困って　奈良田の人たちも　（コ）　「今夜も　来るだろうか　あの子が」と言って</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1071" ANNOTATION_REF="a695">
+                <ANNOTATION_VALUE>見張りを　していると　本当に　来るのだそうだよ。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1072" ANNOTATION_REF="a696">
+                <ANNOTATION_VALUE>ここに　ろうそくを　こう　日本　立てて　こう　縛って　火を　つけて</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1073" ANNOTATION_REF="a697">
+                <ANNOTATION_VALUE>山の　中　その　すごい　形相だったそうだよ。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1074" ANNOTATION_REF="a698">
+                <ANNOTATION_VALUE>そして　今度は　吾平が　困って　毎日　来るので。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1075" ANNOTATION_REF="a699">
+                <ANNOTATION_VALUE>「どう　しよう」と　思って　一晩　考えて</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1076" ANNOTATION_REF="a700">
+                <ANNOTATION_VALUE>今度は　「決心が　ついた」　ということで　吾平はね</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1077" ANNOTATION_REF="a701">
+                <ANNOTATION_VALUE>あれだそうだよ。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1078" ANNOTATION_REF="a702">
+                <ANNOTATION_VALUE>山に　こう　奈良田に　来る　ところに　丸太橋が　あるのだって　一か所。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1079" ANNOTATION_REF="a703">
+                <ANNOTATION_VALUE>そこに　のこぎりを　持って　ある　晩</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1080" ANNOTATION_REF="a704">
+                <ANNOTATION_VALUE>あの　登って行って</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1081" ANNOTATION_REF="a705">
+                <ANNOTATION_VALUE>そして　こう　三本　丸木橋が　こう　ある　所の　こっち側を</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1082" ANNOTATION_REF="a706">
+                <ANNOTATION_VALUE>三分の　一ずつ　三本を　のこぎりで</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1083" ANNOTATION_REF="a707">
+                <ANNOTATION_VALUE>切り込んでおいたのだそうだ。さあ　踏めば</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1084" ANNOTATION_REF="a708">
+                <ANNOTATION_VALUE>そこが　折れる#{ので}。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1085" ANNOTATION_REF="a709">
+                <ANNOTATION_VALUE>さあ　それとは　知らないで　琴路は　その　晩も　その　うれしそうに　来た。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1086" ANNOTATION_REF="a710">
+                <ANNOTATION_VALUE>今度は　そこに　こう　渡り込んだら　ぱーっと　折れたんだ。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1087" ANNOTATION_REF="a711">
+                <ANNOTATION_VALUE>真っ逆さまに</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1088" ANNOTATION_REF="a712">
+                <ANNOTATION_VALUE>早川の　崖に</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1089" ANNOTATION_REF="a713">
+                <ANNOTATION_VALUE>落ちたのだそうだ#{よ}　琴路は。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1090" ANNOTATION_REF="a714">
+                <ANNOTATION_VALUE>そして　そこを　のこぎりで　切り込んで　奈良田に　帰って来て</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1091" ANNOTATION_REF="a715">
+                <ANNOTATION_VALUE>吾平は</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1092" ANNOTATION_REF="a716">
+                <ANNOTATION_VALUE>「こんな　他所の　{咳}　他所の　村とは　一緒に　なっては　まずいような　（キソ）　規則は　おかしいから</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1093" ANNOTATION_REF="a717">
+                <ANNOTATION_VALUE>これからは　他所の　者なら　どこの　地の　者でも　良い　仲に　なれば</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1094" ANNOTATION_REF="a718">
+                <ANNOTATION_VALUE>一緒に　結ばれる　ことを　私は</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1095" ANNOTATION_REF="a719">
+                <ANNOTATION_VALUE>希望する」という　遺言を　書いて</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1096" ANNOTATION_REF="a720">
+                <ANNOTATION_VALUE>そして　自分は　奈良田の</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1097" ANNOTATION_REF="a721">
+                <ANNOTATION_VALUE>昔　あったんだ　「西のはば」って。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1098" ANNOTATION_REF="a722">
+                <ANNOTATION_VALUE>こう　ここのあたりが　ここが　西のはばとすれば　ここへ　来ると　とても　怖くて</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1099" ANNOTATION_REF="a723">
+                <ANNOTATION_VALUE>よく　親が　私が　小さい　時も</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1100" ANNOTATION_REF="a724">
+                <ANNOTATION_VALUE>「西のはばへ　行くんじゃないよ　落ちるから」と　言っていたよ。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1101" ANNOTATION_REF="a725">
+                <ANNOTATION_VALUE>そこへ　来て　真っ逆さまに</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1102" ANNOTATION_REF="a726">
+                <ANNOTATION_VALUE>あの　あれだそうだ#{よ}　吾平は　飛び込んで　死んだんだそうだ。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1103" ANNOTATION_REF="a727">
+                <ANNOTATION_VALUE>そうしたら　奈良田で　飛び込んだ　者と</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1104" ANNOTATION_REF="a728">
+                <ANNOTATION_VALUE>保の　崖の　上で　飛び込んだ　琴路と</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1105" ANNOTATION_REF="a729">
+                <ANNOTATION_VALUE>同じ　所に　止まって　二人　揃って　こう　止まったのだそうだよ。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1106" ANNOTATION_REF="a730">
+                <ANNOTATION_VALUE>／／ それで　ほら</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1107" ANNOTATION_REF="a731">
+                <ANNOTATION_VALUE>琴路は　あのように　早川の　所だよ。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1108" ANNOTATION_REF="a732">
+                <ANNOTATION_VALUE>吾平は　ここなのだが　一緒に　止まったのだって。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1109" ANNOTATION_REF="a733">
+                <ANNOTATION_VALUE>流れて行って　同じ　所#{に}。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1110" ANNOTATION_REF="a734">
+                <ANNOTATION_VALUE>すると　本当に　それから　吾平の　書き置きが</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1111" ANNOTATION_REF="a735">
+                <ANNOTATION_VALUE>あったので　今度は　村でも　会議を　して　あれだよ　寄り合いを　して</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1112" ANNOTATION_REF="a736">
+                <ANNOTATION_VALUE>そして　他所の　者でも　何でも　それからは　一緒に　なれるという　法に　なったのだそうだよ。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1113" ANNOTATION_REF="a737">
+                <ANNOTATION_VALUE>それで　今は　奈良田でも　（ドッ）　遠くからも　嫁に　来て　嫁に　他所に　行ったり　しているんだよ。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1114" ANNOTATION_REF="a738">
+                <ANNOTATION_VALUE>それで　おしまい。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="dependent" PARENT_REF="発話" TIER_ID="注">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1115" ANNOTATION_REF="a645">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1116" ANNOTATION_REF="a646">
+                <ANNOTATION_VALUE>収録者に対する解説であり、東京方言的なアクセントで発話されているため、音調記号や形態素境界・グロスは付さない。調査者の「マーッテ」という声が重なっている。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1117" ANNOTATION_REF="a647">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1118" ANNOTATION_REF="a648">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1119" ANNOTATION_REF="a649">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1120" ANNOTATION_REF="a650">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1121" ANNOTATION_REF="a651">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1122" ANNOTATION_REF="a652">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1123" ANNOTATION_REF="a653">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1124" ANNOTATION_REF="a654">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1125" ANNOTATION_REF="a655">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1126" ANNOTATION_REF="a656">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1127" ANNOTATION_REF="a657">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1128" ANNOTATION_REF="a658">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1129" ANNOTATION_REF="a659">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1130" ANNOTATION_REF="a660">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1131" ANNOTATION_REF="a661">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1132" ANNOTATION_REF="a662">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1133" ANNOTATION_REF="a663">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1134" ANNOTATION_REF="a664">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1135" ANNOTATION_REF="a665">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1136" ANNOTATION_REF="a666">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1137" ANNOTATION_REF="a667">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1138" ANNOTATION_REF="a668">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1139" ANNOTATION_REF="a669">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1140" ANNOTATION_REF="a670">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1141" ANNOTATION_REF="a671">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1142" ANNOTATION_REF="a672">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1143" ANNOTATION_REF="a673">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1144" ANNOTATION_REF="a674">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1145" ANNOTATION_REF="a675">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1146" ANNOTATION_REF="a676">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1147" ANNOTATION_REF="a677">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1148" ANNOTATION_REF="a678">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1149" ANNOTATION_REF="a679">
+                <ANNOTATION_VALUE>muraとsjaaの間に若干間がある</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1150" ANNOTATION_REF="a680">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1151" ANNOTATION_REF="a681">
+                <ANNOTATION_VALUE>hoɴ：『日本方言大辞典』によると副詞「ホン」は岐阜県や愛知県の例があるが山梨県内の例はあがっていない。hoɴakire全体で名詞の可能性もあるか。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1152" ANNOTATION_REF="a682">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1153" ANNOTATION_REF="a683">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1154" ANNOTATION_REF="a684">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1155" ANNOTATION_REF="a685">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1156" ANNOTATION_REF="a686">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1157" ANNOTATION_REF="a687">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1158" ANNOTATION_REF="a688">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1159" ANNOTATION_REF="a689">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1160" ANNOTATION_REF="a690">
+                <ANNOTATION_VALUE>mainici [mːainiʨi] 強調のために頭子音が長く発音されている。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1161" ANNOTATION_REF="a691">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1162" ANNOTATION_REF="a692">
+                <ANNOTATION_VALUE>imasino：si 未詳</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1163" ANNOTATION_REF="a693">
+                <ANNOTATION_VALUE>mukeɴpote：向こう側（深沢實氏の教示による）</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1164" ANNOTATION_REF="a694">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1165" ANNOTATION_REF="a695">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1166" ANNOTATION_REF="a696">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1167" ANNOTATION_REF="a697">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1168" ANNOTATION_REF="a698">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1169" ANNOTATION_REF="a699">
+                <ANNOTATION_VALUE>doo sirudura：直訳すれば「どう　するのだろう」</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1170" ANNOTATION_REF="a700">
+                <ANNOTATION_VALUE>tuita と cjuude の間にポーズがある。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1171" ANNOTATION_REF="a701">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1172" ANNOTATION_REF="a702">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1173" ANNOTATION_REF="a703">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1174" ANNOTATION_REF="a704">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1175" ANNOTATION_REF="a705">
+                <ANNOTATION_VALUE>koQciQpira：こっち側（深沢實氏の教示による）。『甲州方言』（p. 394）は「ひら」を「山の斜面」のこととし「向こうっぴらにはまだ雪があるが」という例をあげる。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1176" ANNOTATION_REF="a706">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1177" ANNOTATION_REF="a707">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1178" ANNOTATION_REF="a708">
+                <ANNOTATION_VALUE>hiQkuzikeru：hiQ は接頭辞。全体で「折れる」の意。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1179" ANNOTATION_REF="a709">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1180" ANNOTATION_REF="a710">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1181" ANNOTATION_REF="a711">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1182" ANNOTATION_REF="a712">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1183" ANNOTATION_REF="a713">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1184" ANNOTATION_REF="a714">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1185" ANNOTATION_REF="a715">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1186" ANNOTATION_REF="a716">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1187" ANNOTATION_REF="a717">
+                <ANNOTATION_VALUE>moɴdara：daraはコピュラ仮定形として一般的ではないが，古い形の可能性があるか。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1188" ANNOTATION_REF="a718">
+                <ANNOTATION_VALUE>urjaa : 不詳。ore.waとura.waが一時的に混同されたものか。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1189" ANNOTATION_REF="a719">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1190" ANNOTATION_REF="a720">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1191" ANNOTATION_REF="a721">
+                <ANNOTATION_VALUE>mukasi：ここから jaakeɴ「言っていたよ」までは「西のはば」に対する説明が挿入されている。「西のはば」は移転前の集落にあった場所。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1192" ANNOTATION_REF="a722">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1193" ANNOTATION_REF="a723">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1194" ANNOTATION_REF="a724">
+                <ANNOTATION_VALUE>jaakeɴ：深沢實氏によれば jaakeni で「言っていたよ」にあたるとのこと。分析は暫定的なもの。</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1195" ANNOTATION_REF="a725">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1196" ANNOTATION_REF="a726">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1197" ANNOTATION_REF="a727">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1198" ANNOTATION_REF="a728">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1199" ANNOTATION_REF="a729">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1200" ANNOTATION_REF="a730">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1201" ANNOTATION_REF="a731">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1202" ANNOTATION_REF="a732">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1203" ANNOTATION_REF="a733">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1204" ANNOTATION_REF="a734">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1205" ANNOTATION_REF="a735">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1206" ANNOTATION_REF="a736">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1207" ANNOTATION_REF="a737">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1208" ANNOTATION_REF="a738">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="dependent" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
